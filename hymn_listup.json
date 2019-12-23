@@ -18,7 +18,7 @@
       name : "Charles H. Gabriel",
       desc : "1922(1856-1932)"
       },
-      meta_path : "/hymn_metas/test1.json",
+      meta_path : "/metas/test1.json",
       track_path : "/tracks/test1.mp4"
     },
   ]
