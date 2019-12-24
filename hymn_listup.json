@@ -1,25 +1,26 @@
 {
-  "list_version" : "0.0.1",
-  "latest_update" : {
-    "name" : "Heecheol-Kim",
-    "date" : "2019-12-23 12:00:00"
-  },
-  "hymns" : [
-    {
-      "no" : 150,
-      "title" : "샤론의 꽃 예수",
-	"en-title" : "rose of sharone?",
-      "bbverse" : "솔 2:1",
-      "writer_sbt" : {
-        "name" : "Ida A. Guirey",
-	"desc" : "1922(1894-1966)"
-      },
-      "writer_mdy" : {
-      	"name" : "Charles H. Gabriel",
-      	"desc" : "1922(1856-1932)"
-      },
-      "meta_path" : "/metas/test1.json",
-      "track_path" : "/tracks/test1.mp4"
-    },
-  ]
+	"list_version" : "0.0.1",
+	"latest_update" : {
+		"name" : "Heecheol-Kim",
+		"date" : "2019-12-23 12:00:00"
+	},
+	"hymns" : [
+	{
+		"no" : 150,
+		"title" : "샤론의 꽃 예수",
+		"en-title" : "rose of sharone?",
+		"bbverse" : "솔 2:1",
+		"theme" : "",
+		"writer_sbt" : {
+			"name" : "Ida A. Guirey",
+			"desc" : "1922(1894-1966)"
+		},
+		"writer_mdy" : {
+			"name" : "Charles H. Gabriel",
+			"desc" : "1922(1856-1932)"
+		},
+		"meta_path" : "/metas/test1.json",
+		"track_path" : "/tracks/test1.mp4"
+		},
+	]
 }
