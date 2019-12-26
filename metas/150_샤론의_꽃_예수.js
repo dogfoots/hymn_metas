@@ -34,8 +34,7 @@ var hymn_info={
 
 	metermother : 4,
 
-	meteroffset : 0, //여기서 만약 4분음표 하나라면 1/4 값.
-
+	meteroffset : 0,
 	versecnt : 4,
 
 	
