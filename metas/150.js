@@ -2091,7 +2091,7 @@ var hymn_info={
 
 			stem : "up",
 
-			sfn : "no"},
+			sfn : "no"}
 
 		],
 
