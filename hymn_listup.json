@@ -6,8 +6,8 @@
 	},
 	"hymns" : [
 		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
+			"no" : 134,
+			"title" : "풍랑이 일고 바람이 불 때",
 			"en-title" : "rose of sharone?",
 			"bbverse" : "솔 2:1",
 			"theme" : "예수 그리스도",
@@ -19,7 +19,7 @@
 				"name" : "Charles H. Gabriel",
 				"desc" : "1922(1856-1932)"
 			},
-			"meta_path" : "/metas/test1.json",
+			"meta_path" : "/metas/134_풍랑이_일고_바람이_불_때.js",
 			"track_path" : "/tracks/test1.mp4"
 		},
 		{
@@ -36,178 +36,8 @@
 				"name" : "Charles H. Gabriel",
 				"desc" : "1922(1856-1932)"
 			},
-			"meta_path" : "/metas/test1.json",
+			"meta_path" : "/metas/150_샤론의_꽃_예수.js",
 			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
-		{
-			"no" : 150,
-			"title" : "샤론의 꽃 예수",
-			"en-title" : "rose of sharone?",
-			"bbverse" : "솔 2:1",
-			"theme" : "예수 그리스도",
-			"writer_sbt" : {
-				"name" : "Ida A. Guirey",
-				"desc" : "1922(1894-1966)"
-			},
-			"writer_mdy" : {
-				"name" : "Charles H. Gabriel",
-				"desc" : "1922(1856-1932)"
-			},
-			"meta_path" : "/metas/test1.json",
-			"track_path" : "/tracks/test1.mp4"
-		},
+		}
 	]
 }
