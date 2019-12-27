@@ -19,10 +19,8 @@
 				"name" : "Charles H. Gabriel",
 				"desc" : "1922(1856-1932)"
 			},
-			"meta_version" : 1,
-			"meta_path" : "/metas/134.js",
-			"track_version" : 1,
-			"track_path" : "/tracks/test1.mp4"
+			"meta_path" : "/metas/134_1.js",
+			"track_path" : "/tracks/134_1.mp4"
 		},
 		{
 			"no" : 150,
@@ -38,10 +36,8 @@
 				"name" : "Charles H. Gabriel",
 				"desc" : "1922(1856-1932)"
 			},
-			"meta_version" : 2,
-			"meta_path" : "/metas/150.js",
-			"track_version" : 2,
-			"track_path" : "/tracks/test1.mp4"
+			"meta_path" : "/metas/150_1.js",
+			"track_path" : "/tracks/150_1.mp4"
 		}
 	]
 }
