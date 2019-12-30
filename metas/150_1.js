@@ -2,7 +2,7 @@ var hymn_info={
 
 	no : 150,
 	title : "샤론의 꽃 예수",
-	en-title : "rose of sharone?",
+	en_title : "rose of sharone?",
 	bbverse : "솔 2:1",
 	theme : "예수 그리스도",
 	writer_sbt : {
