@@ -1,7 +1,7 @@
 var hymn_info={
 	no : 134,
 	title : "풍랑이 일고 바람이 불 때",
-	en-title : "rose of sharone?",
+	en_title : "rose of sharone?",
 	bbverse : "히 6:19",
 	theme : "예수 그리스도",
 	writer_sbt : {
