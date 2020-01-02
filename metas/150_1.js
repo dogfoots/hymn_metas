@@ -1526,6 +1526,11 @@ var hymn_info={
 
 			stem : "up",
 
+			sfn : "no"},
+			{ mrk : "1D", 
+
+			stem : "up",
+
 			sfn : "no"}
 
 		],
@@ -2076,6 +2081,11 @@ var hymn_info={
 
 		gclef_sounds : [
 
+			{ mrk : "1E", 
+
+			stem : "up",
+
+			sfn : "no"},
 			{ mrk : "1E", 
 
 			stem : "up",
