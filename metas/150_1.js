@@ -47,19 +47,12 @@ var hymn_info={
 		playtime:[10,40,70,120],
 
 		gclef_sounds : [
-
-			{ mrk : "1D", 
-
-			stem : "up",
-
-			sfn : "no"},
-
 			{ mrk : "1F", 
-
 			stem : "up",
-
+			sfn : "no"},
+			{ mrk : "1D", 
+			stem : "up",
 			sfn : "no"}
-
 		],
 
 		captions : [
@@ -813,19 +806,16 @@ var hymn_info={
 		type : "quarterdot",
 
 		gclef_sounds : [
-
-			{ mrk : "1D", 
-
-			stem : "up",
-
-			sfn : "no"},
-
 			{ mrk : "1F", 
 
 			stem : "up",
 
-			sfn : "no"}
+			sfn : "no"},
+			{ mrk : "1D", 
 
+			stem : "up",
+
+			sfn : "no"}
 		],
 
 		captions : [
