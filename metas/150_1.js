@@ -1708,7 +1708,7 @@ var hymn_info={
 
 			stem : "up/up",
 
-			sfn : "no/np",
+			sfn : "no/no",
 
 			slur : "up"},
 
