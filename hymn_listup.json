@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.6",
+	"list_version" : "0.0.7",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -21,7 +21,7 @@
 				"desc" : "1922(1856-1932)"
 			},
 			"meta_path" : "/metas/134_1.js",
-			"track_path" : "/tracks/134_1.mp4"
+			"track_path" : "/tracks/134_1.m4a"
 		},
 		{
 			"no" : 150,
@@ -39,7 +39,7 @@
 				"desc" : "1922(1856-1932)"
 			},
 			"meta_path" : "/metas/150_1.js",
-			"track_path" : "/tracks/150_1.mp4"
+			"track_path" : "/tracks/150_1.m4a"
 		}
 	]
 }
