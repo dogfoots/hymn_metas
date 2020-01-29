@@ -223,7 +223,7 @@ var hymn_info={
 			types : "half/quarter/quarter",
 			stem : "down/down/down",
 			slur:"down",
-			sfn : "no"}
+			sfn : "no/no/no"}
 		],
 		captions : [
 			"러",
@@ -430,7 +430,7 @@ var hymn_info={
 			types : "half/quarter/quarter",
 			stem : "down/down/down",
 			slur:"down",
-			sfn : "no"}
+			sfn : "no/no/no"}
 		],
 		captions : [
 			"라",
@@ -1157,7 +1157,7 @@ var hymn_info={
 			types: "quarter/quarter",
 			stem : "up/up",
 			slur : "up",
-			sfn : "no"},
+			sfn : "no/no"},
 			{ mrk : "1E", 
 			stem : "down",
 			sfn : "no"}
