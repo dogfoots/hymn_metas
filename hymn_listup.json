@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.10",
+	"list_version" : "0.0.11",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -22,6 +22,24 @@
 			},
 			"meta_path" : "/metas/1_1.js",
 			"track_path" : "/tracks/1_1.m4a"
+		},
+		{
+			"no" : 2,
+			"title" : "예배로 모이라고",
+			"en_title" : "O Day of Rest and Gladness",
+			"bbverse" : "행 20:7",
+			"bbtxt" : "그 주의 첫날 제자들이 빵을 떼고자 함께 모였을 때 바울이 그들에게 설교하되 다음날 떠날 준비를 하고 한밤중까지 설교를 계속하더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Christopher Wordsworth",
+				"desc" : "1862(1897-1885)"
+			},
+			"writer_mdy" : {
+				"name" : "Traditional German Melody",
+				"desc" : "Arr. by Lowell Mason, 1839"
+			},
+			"meta_path" : "/metas/2_1.js",
+			"track_path" : "/tracks/2_1.m4a"
 		},
 		{
 			"no" : 134,
