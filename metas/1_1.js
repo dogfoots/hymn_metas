@@ -1508,7 +1508,7 @@ var hymn_info={
 			{ mrk : "1E/1D", 
 			types : "half/whole",
 			stem : "down/down",
-			sfn : "no"}
+			sfn : "no/no"}
 		],
 		fclef_sounds : [
 			{ mrk : "2C/2B/2A", 
