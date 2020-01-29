@@ -20,6 +20,7 @@ var hymn_info={
 	metermother : 4,
 	meteroffset : 1,
 	versecnt : 3,
+	musictempo : 2.5,
 	
 	notes : [
 	{
