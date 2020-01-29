@@ -35,7 +35,7 @@ var hymn_info={
 
 	meteroffset : 0,
 	versecnt : 4,
-
+	musictempo : 2.5,
 	
 
 	notes : [
