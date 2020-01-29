@@ -1,10 +1,28 @@
 {
-	"list_version" : "0.0.9",
+	"list_version" : "0.0.10",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
 	},
 	"hymns" : [
+		{
+			"no" : 1,
+			"title" : "온 천하 만물 우러러",
+			"en_title" : "All Creatures of Our God and King",
+			"bbverse" : "시 148:13",
+			"bbtxt" : "그들로 주의 이름을 찬양케 할지니 이는 그의 이름만이 홀로 뛰어나시며 그의 영광이 이 땅과 하늘 위에 있음이라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "William H. Draper",
+				"desc" : "(1855-1933)"
+			},
+			"writer_mdy" : {
+				"name" : "<Geistliche Kirchengesang>, 1623",
+				"desc" : "Arr. Norman E. Johnson, 1968"
+			},
+			"meta_path" : "/metas/1_1.js",
+			"track_path" : "/tracks/1_1.m4a"
+		},
 		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",

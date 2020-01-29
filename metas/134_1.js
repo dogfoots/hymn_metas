@@ -18,7 +18,7 @@ var hymn_info={
 	},
 	meterson : 4,
 	metermother : 4,
-	meteroffset : 0.25,
+	meteroffset : 1,
 	versecnt : 3,
 	
 	notes : [
