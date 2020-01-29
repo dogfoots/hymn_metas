@@ -24,7 +24,7 @@ var hymn_info={
 	metermother : 2,
 	meteroffset : 2,
 	versecnt : 4,
-	musictempo : 1.5,
+	musictempo : 2.0,
 	notes : [
 	{
 		type : "half",
