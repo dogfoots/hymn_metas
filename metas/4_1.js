@@ -949,7 +949,7 @@ var hymn_info={
 			types:"quarter/quarter",
 			stem : "up/up",
 			slur : "up",
-			sfn : "no"},
+			sfn : "no/no"},
 			{ mrk : "1B", 
 			stem : "down",
 			sfn : "no"}
@@ -975,7 +975,7 @@ var hymn_info={
 			{ mrk : "2A",
 			stem : "up",
 			slur : "up",
-			sfn : "no/no"},
+			sfn : "no"},
 			{ mrk : "0F", 
 			stem : "up",
 			sfn : "no"}
