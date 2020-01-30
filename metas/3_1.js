@@ -124,7 +124,7 @@ var hymn_info={
 			types:"quarter/quarter",
 			stem : "down/down",
 			slur : "down",
-			sfn : "no"}
+			sfn : "no/no"}
 		],
 		captions : [
 			"오/",
