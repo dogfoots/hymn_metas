@@ -517,7 +517,7 @@ var hymn_info={
 			sfn : "no/no"},
 			{ mrk : "1G/1F", 
 			types : "quarterdot/eighth",
-			stem : "up/up",
+			stem : "up/down",
 			sfn : "no/no"}
 		],
 		fclef_sounds : [
