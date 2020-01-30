@@ -509,53 +509,32 @@ var hymn_info={
 		]
 	},
 	{
-		type : "quarterdot",
+		type : "half",
 		gclef_sounds : [
-			{ mrk : "2B", 
-			stem : "up",
-			sfn : "no"},
-			{ mrk : "1G", 
-			stem : "up",
-			sfn : "no"}
+			{ mrk : "2B/2A", 
+			types : "quarterdot/eighth",
+			stem : "up/up",
+			sfn : "no/no"},
+			{ mrk : "1G/1F", 
+			types : "quarterdot/eighth",
+			stem : "up/up",
+			sfn : "no/no"}
 		],
 		fclef_sounds : [
-			{ mrk : "2D", 
-			stem : "down",
-			sfn : "no"},
-			{ mrk : "1G", 
-			stem : "down",
-			sfn : "no"}
+			{ mrk : "2D/2C", 
+			types:"quarter/quarter",
+			stem : "down/down",
+			sfn : "no/no"},
+			{ mrk : "1G/1D", 
+			types:"quarter/quarter",
+			stem : "down/down",
+			sfn : "no/no"}
 		],
 		captions : [
-			"권",
-			"백",
-			"주",
-			"주"
-		]
-	},
-	{
-		type : "eighth",
-		gclef_sounds : [
-			{ mrk : "2A", 
-			stem : "up",
-			sfn : "no"},
-			{ mrk : "1F", 
-			stem : "up",
-			sfn : "no"}
-		],
-		fclef_sounds : [
-			{ mrk : "2C", 
-			stem : "down",
-			sfn : "no"},
-			{ mrk : "1D", 
-			stem : "down",
-			sfn : "no"}
-		],
-		captions : [
-			"능",
-			"성",
-			"시",
-			"님"
+			"권/능",
+			"백/성",
+			"주/시",
+			"주/님"
 		]
 	},
 	{
