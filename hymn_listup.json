@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.13",
+	"list_version" : "0.0.14",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -58,6 +58,24 @@
 			},
 			"meta_path" : "/metas/3_1.js",
 			"track_path" : "/tracks/3_1.m4a"
+		},
+		{
+			"no" : 4,
+			"title" : "거룩 거룩 거룩",
+			"en_title" : "Holy, Holy, Holy!",
+			"bbverse" : "계 4:8",
+			"bbtxt" : "네 짐승들은 각각 자기 주위에 여섯 개의 날개를 가졌고 안족에는 눈들로 가득하더라. 또 그들은 밤낮 쉬지 않고 말하기를 \"거룩하시도다, 거룩하시도다, 거룩하시도다, 전에도 계셨고, 지금도 계시며 앞으로 오실 전능하신 주 하나님이여!\"하더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Reginald Heber",
+				"desc" : "1826(1783-1826)"
+			},
+			"writer_mdy" : {
+				"name" : "John B. Dykes",
+				"desc" : "1861(1823-1876)"
+			},
+			"meta_path" : "/metas/4_1.js",
+			"track_path" : "/tracks/4_1.m4a"
 		},
 		{
 			"no" : 134,
