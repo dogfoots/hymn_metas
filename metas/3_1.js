@@ -165,7 +165,7 @@ var hymn_info={
 			stem : "up",
 			sfn : "no"},
 			{ mrk : "1D", 
-			stem : "uo",
+			stem : "up",
 			sfn : "no"}
 		],
 		fclef_sounds : [
