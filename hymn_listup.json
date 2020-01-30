@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.14",
+	"list_version" : "0.0.15",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -20,7 +20,7 @@
 				"name" : "<Geistliche Kirchengesang>, 1623",
 				"desc" : "Arr. Norman E. Johnson, 1968"
 			},
-			"meta_path" : "/metas/1_1.js",
+			"meta_path" : "/metas/1_2.js",
 			"track_path" : "/tracks/1_1.m4a"
 		},
 		{
