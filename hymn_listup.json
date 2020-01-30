@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.11",
+	"list_version" : "0.0.12",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -40,6 +40,24 @@
 			},
 			"meta_path" : "/metas/2_1.js",
 			"track_path" : "/tracks/2_1.m4a"
+		},
+		{
+			"no" : 3,
+			"title" : "전능 왕 오셔서",
+			"en_title" : "Come, Thou Almighty King",
+			"bbverse" : "계 4:8",
+			"bbtxt" : "네 짐승들은 각각 자기 주위에 여섯 개의 날개를 가졌고 안족에는 눈들로 가득하더라. 또 그들은 밤낮 쉬지 않고 말하기를 \"거룩하시도다, 거룩하시도다, 거룩하시도다, 전에도 계셨고, 지금도 계시며 앞으로 오실 전능하신 주 하나님이여!\"하더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Anonymous",
+				"desc" : "c. 1757"
+			},
+			"writer_mdy" : {
+				"name" : "Felice D. Giardini",
+				"desc" : "1767(1716-1796)"
+			},
+			"meta_path" : "/metas/3_1.js",
+			"track_path" : "/tracks/3_1.m4a"
 		},
 		{
 			"no" : 134,
