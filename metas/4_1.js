@@ -24,7 +24,7 @@ var hymn_info={
 	metermother : 4,
 	meteroffset : 0,
 	versecnt : 4,
-	musictempo : 2.15,
+	musictempo : 2.8,
 
 	notes : [
 	{
@@ -1166,10 +1166,10 @@ var hymn_info={
 	{
 		type : "whole",
 		gclef_sounds : [
-			{ mrk : "1E", 
+			{ mrk : "1D", 
 			stem : "up",
 			sfn : "no"},
-			{ mrk : "1E", 
+			{ mrk : "1D", 
 			stem : "down",
 			sfn : "no"}
 		],
