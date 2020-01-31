@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.16",
+	"list_version" : "0.0.17",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -94,6 +94,24 @@
 			},
 			"meta_path" : "/metas/5_1.js",
 			"track_path" : "/tracks/5_1.m4a"
+		},
+		{
+			"no" : 6,
+			"title" : "주 찬양하여라",
+			"en_title" : "Praise to the Lord, the Almighty",
+			"bbverse" : "욥 22:26",
+			"bbtxt" : "그 때에는 네가 전능하신 분 안에서 네 기쁨을 갖게 될 것이며 네 얼굴을 하나님께 들게 되리라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Joachim Neander",
+				"desc" : "1680(1650-1680)"
+			},
+			"writer_mdy" : {
+				"name" : "<Stralsund Gesangbuch>",
+				"desc" : "1665"
+			},
+			"meta_path" : "/metas/6_1.js",
+			"track_path" : "/tracks/6_1.m4a"
 		},
 		{
 			"no" : 134,
