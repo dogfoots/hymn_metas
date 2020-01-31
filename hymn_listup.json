@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.15",
+	"list_version" : "0.0.16",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -76,6 +76,24 @@
 			},
 			"meta_path" : "/metas/4_1.js",
 			"track_path" : "/tracks/4_1.m4a"
+		},
+		{
+			"no" : 5,
+			"title" : "모두 감사드리세",
+			"en_title" : "Come, Ye Thankful People",
+			"bbverse" : "살전 5:18",
+			"bbtxt" : "모든 일에 감사하라. 이것은 그리스도 예수 안에서 너희에 관한 하나님의 뜻이니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Henry Alford",
+				"desc" : "1844(1810-1871)"
+			},
+			"writer_mdy" : {
+				"name" : "George J. Elvey",
+				"desc" : "1858(1816-1893)"
+			},
+			"meta_path" : "/metas/5_1.js",
+			"track_path" : "/tracks/5_1.m4a"
 		},
 		{
 			"no" : 134,
