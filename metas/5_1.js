@@ -906,7 +906,7 @@ var hymn_info={
 	{
 		type : "half",
 		gclef_sounds : [
-			{ mrk : "1B/2C", 
+			{ mrk : "2B/2C", 
 			types : "quarter/quarter",
 			stem : "up/up",
 			sfn : "no/no"},
