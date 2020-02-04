@@ -1139,7 +1139,7 @@ var hymn_info={
 			{ mrk : "1G", 
 			stem : "up",
 			sfn : "no"},
-			{ mrk : "1B/2D", 
+			{ mrk : "1B/1D", 
 			types : "quarter/quarter",
 			stem : "down/down",
 			slur : "down",
