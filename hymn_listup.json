@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.17",
+	"list_version" : "0.0.18",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -112,6 +112,24 @@
 			},
 			"meta_path" : "/metas/6_1.js",
 			"track_path" : "/tracks/6_1.m4a"
+		},
+		{
+			"no" : 7,
+			"title" : "큰 영화로신 주",
+			"en_title" : "Great King of Glory",
+			"bbverse" : "마 18:20",
+			"bbtxt" : "두세 사람이 내 이름으로 함께 모이는 곳에는 나도 그들 가운데 있느니라.\"하시더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Benjamin Francis",
+				"desc" : "1774(1734-1799)"
+			},
+			"writer_mdy" : {
+				"name" : "Louisen Edson",
+				"desc" : "1782(1748-1820)"
+			},
+			"meta_path" : "/metas/7_1.js",
+			"track_path" : "/tracks/7_1.m4a"
 		},
 		{
 			"no" : 134,
