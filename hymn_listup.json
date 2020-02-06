@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.18",
+	"list_version" : "0.0.19",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -130,6 +130,24 @@
 			},
 			"meta_path" : "/metas/7_1.js",
 			"track_path" : "/tracks/7_1.m4a"
+		},
+		{
+			"no" : 8,
+			"title" : "아브라함의 하나님",
+			"en_title" : "The God of Abraham Praise",
+			"bbverse" : "출 3:14",
+			"bbtxt" : "하나님께서 모세에게 말씀하시기를 \"나는 곧 나니라.\" 하시고, 또 말씀하시기를 \"너는 이스라엘 자손들에게 이같이 말할지니 '나이신 분께서 나를 너희에게 보내셨다.'하라.\"하시니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Jewish Doxology",
+				"desc" : "Adapt. by Thomas Olivers(1725-1799)"
+			},
+			"writer_mdy" : {
+				"name" : "Synagogue melody",
+				"desc" : "Arr. by Meyer Leoni(1751-1797)"
+			},
+			"meta_path" : "/metas/8_1.js",
+			"track_path" : "/tracks/8_1.m4a"
 		},
 		{
 			"no" : 134,
