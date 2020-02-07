@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.20",
+	"list_version" : "0.0.21",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -166,6 +166,24 @@
 			},
 			"meta_path" : "/metas/9_1.js",
 			"track_path" : "/tracks/9_1.m4a"
+		},
+		{
+			"no" : 10,
+			"title" : "찬송하는 소리 있어",
+			"en_title" : "Hark, Ten Thousand Harps and Voices",
+			"bbverse" : "계 5:12",
+			"bbtxt" : "큰 음성으로 말하기를 \"죽임을 당하신 어린양이 권세와 부귀와 지혜와 힘과 존귀와 영광과 찬송을 받으시기에 합당하시도다.\"라고 하더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Thomas Kelly",
+				"desc" : "1806(1769-1855)"
+			},
+			"writer_mdy" : {
+				"name" : "Lowell Mason",
+				"desc" : "1840(1792-1872)"
+			},
+			"meta_path" : "/metas/10_1.js",
+			"track_path" : "/tracks/10_1.m4a"
 		},
 		{
 			"no" : 134,
