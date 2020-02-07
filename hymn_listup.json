@@ -186,6 +186,24 @@
 			"track_path" : "/tracks/10_1.m4a"
 		},
 		{
+			"no" : 11,
+			"title" : "믿음의 조상들의 하나님",
+			"en_title" : "God of Our Fathers",
+			"bbverse" : "신 9:29",
+			"bbtxt" : "그들은 주께서 주의 강한 능력과 주의 펴신 팔로 인도하여 내신 주의 백성이며 주의 유업이니이다.\" 하였느니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Daniel C. Roberts",
+				"desc" : "1876(1841-1907)"
+			},
+			"writer_mdy" : {
+				"name" : "George W. Warren",
+				"desc" : "1888(1828-1902)"
+			},
+			"meta_path" : "/metas/11_1.js",
+			"track_path" : "/tracks/11_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
