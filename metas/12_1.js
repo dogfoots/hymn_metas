@@ -805,7 +805,7 @@ var hymn_info={
 			{ mrk : "2B", 
 			stem : "up",
 			sfn : "no"},
-			{ mrk : "2D", 
+			{ mrk : "1D", 
 			stem : "up",
 			sfn : "no"}
 		],
