@@ -533,7 +533,7 @@ var hymn_info={
 	{
 		type : "quarter",
 		gclef_sounds : [
-			{ mrk : "2B", 
+			{ mrk : "2D", 
 			stem : "up",
 			sfn : "no"},
 			{ mrk : "1F", 
