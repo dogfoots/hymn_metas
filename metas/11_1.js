@@ -739,7 +739,7 @@ var hymn_info={
 			sfn : "no"},
 			{ mrk : "1G", 
 			stem : "down",
-			sfn : "no"}
+			sfn : "@f"}
 		],
 		captions : [
 			"하",
