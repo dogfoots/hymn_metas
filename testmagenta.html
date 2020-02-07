@@ -146,6 +146,10 @@
             //72 C sop
 
             function getSfnFromSemitone(semitoneArr, type, mrk){
+                if(mrk.match("@s") || mrk.match("@f")){
+                    return mrk;
+                }
+
                 if(!mrk.match("@n")){
                     for(var i=0;i< semitoneArr.length; i++){
                         if(mrk.match(semitoneArr[i])){
