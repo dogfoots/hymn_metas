@@ -72,6 +72,27 @@ var hymn_info={
 			sfn : "no"
 			}
 		]
+	},
+	{
+		type : "whole",
+		gclef_sounds : [
+			{ mrk : "2B/2B/2B/2B", 
+			stem : "up/up/up/up",
+			sfn : "no/no/no/no"},
+			{ mrk : "1G/1G/1G/1G", 
+			stem : "up/up/up/up",
+			sfn : "no/no/no/no"},
+			{ mrk : "1E/1E/1E/1E", 
+			stem : "up/up/up/up",
+			sfn : "no/no/no/up"}
+		],
+		fclef_sounds : [
+			{ mrk : "1C",
+			types : "wholerest",
+			stem : "up",
+			sfn : "no"
+			}
+		]
 	}
 	]
 };
