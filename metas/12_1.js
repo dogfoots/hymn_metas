@@ -313,6 +313,7 @@ var hymn_info={
 	},
 	{
 		type : "quarter",
+		fermata_multiply : 3,
 		gclef_sounds : [
 			{ mrk : "2A", 
 			stem : "up",
@@ -623,6 +624,7 @@ var hymn_info={
 	},
 	{
 		type : "quarter",
+		fermata_multiply : 3,
 		gclef_sounds : [
 			{ mrk : "1E", 
 			stem : "up",
@@ -678,7 +680,7 @@ var hymn_info={
 			{ mrk : "1D", 
 			stem : "up",
 			sfn : "no"},
-			{ mrk : "2D", 
+			{ mrk : "1D", 
 			stem : "down",
 			sfn : "no"}
 		],

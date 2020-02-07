@@ -224,12 +224,18 @@
                     var type = hymn_info.notes[i].type;
                     var playtime = getPlaytimeMyType(type);
 
+                    var fermata_multiply = 1.0;
+                    if(typeof hymn_info.notes[i].fermata_multiply != "undefined")
+                    {
+                        fermata_multiply = hymn_info.notes[i].fermata_multiply;
+                    }
+
                     if(type.match("rest")){
-                        delay += playtime;
+                        delay += playtime*fermata_multiply;
                         continue;
                     }
 
-                    var tempPlaytime = playtime;
+                    var tempPlaytime = playtime*fermata_multiply;
 
                     if(typeof hymn_info.notes[i].gclef_sounds != "undefined" &&
                      hymn_info.notes[i].gclef_sounds.length > 0){
@@ -252,7 +258,7 @@
                                 
                                 var tempplaytimeadder=0;
                                 for(var k=0;k<marksArr.length;k++){
-                                    playtime = getPlaytimeMyType(typesArr[k]);
+                                    playtime = getPlaytimeMyType(typesArr[k]) * fermata_multiply;
 
                                     if(typesArr[k].match("rest")){
                                         tempplaytimeadder += playtime;
@@ -297,7 +303,7 @@
                                 
                                 var tempplaytimeadder=0;
                                 for(var k=0;k<marksArr.length;k++){
-                                    playtime = getPlaytimeMyType(typesArr[k]);
+                                    playtime = getPlaytimeMyType(typesArr[k]) * fermata_multiply;
 
                                     if(typesArr[k].match("rest")){
                                         tempplaytimeadder += playtime;
