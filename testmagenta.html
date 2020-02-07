@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <script type="text/javascript" src="./metas/8_1.js"></script>
+        <script type="text/javascript" src="./metas/3_1.js"></script>
         <!-- Load @magenta/music -->
         <script src="https://cdn.jsdelivr.net/npm/@magenta/music@1.3.1"></script>
         <script>
@@ -57,6 +57,8 @@
             }
             var g_player = new mm.SoundFontPlayer('https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus');
 
+            var g_play_tempo_multiplier = 2.3;
+
             function init(){
                 const seq = {notes:[]};
                 for (let i = 0; i < CONSTANTS.NOTES_PER_OCTAVE * OCTAVES; i++) {
@@ -81,7 +83,7 @@
             gSopPitch.put("1B", 2);
             gSopPitch.put("1C@f", 2);
             gSopPitch.put("1B@s", 3);
-            gSopPitch.put("1C", 3);
+            gSopPitch.put("1C", 3); 
             gSopPitch.put("1C@s", 4);
             gSopPitch.put("1D@f", 4);
             gSopPitch.put("1D", 5);
@@ -143,58 +145,182 @@
             //48 C ten
             //72 C sop
 
-            function play() {
-                mm.Player.tone.context.resume();
-
-                var delay = 0;
-                for(var i=0 ; i < hymn_info.length; i++){
-                    var type = hymn_info[i].type;
-                    var playtime = 0;
-                    if(type.match("sixteenth")){
-                        playtime = 75;
-                    }
-                    else if(type.match("eighth")){
-                        playtime = 150;
-                    }
-                    else if(type.match("quarter")){
-                        playtime = 300;
-                    }
-                    else if(type.match("half")){
-                        playtime = 600;
-                    }
-                    else if(type.match("whole")){
-                        playtime = 1200;
-                    }
-
-                    if(type.match("dot")){
-                        playtime = playtime*1.5;
-                    }
-
-                    if(typeof hymn_info[i].gclef_sounds != "undefined" &&
-                     hymn_info[i].gclef_sounds.length > 0){
-                        var mrk = hymn_info[i].gclef_sounds[0].mrk;
-                        var types = hymn_info[i].gclef_sounds[0].types;
-                        var sfn = hymn_info[i].gclef_sounds[0].sfn;
-                        var marksArr = mrk.split("/");
-                        var typesArr = types.split("/");
-                        var sfnsArr = sfn.split("/");
-
-                        if(marksArr.length > 0){
-                            
-                        }else{
-                            setTimeout(function(){
-                                g_player.playNoteDown({pitch:gSopPitch.get(mrk+sfn)});
-                            }, delay);
-                            
-                            delay += playtime;
-                            setTimeout(function(){
-                                g_player.playNoteUp({pitch:gSopPitch.get(mrk+sfn)});
-                            }, delay);
+            function getSfnFromSemitone(semitoneArr, type, mrk){
+                if(!mrk.match("@n")){
+                    for(var i=0;i< semitoneArr.length; i++){
+                        if(mrk.match(semitoneArr[i])){
+                            if(type=="sharp"){
+                                mrk= mrk+"@s";
+                            }else if(type=="flat"){
+                                mrk= mrk+"@f";
+                            }
+                            break;
                         }
                     }
                 }
+                
+                return mrk;
             }
-            
+
+            function getPlaytimeMyType(type){
+                var playtime = 0;
+                if(type.match("sixteenth")){
+                    playtime = 75;
+                }
+                else if(type.match("eighth")){
+                    playtime = 150;
+                }
+                else if(type.match("quarter")){
+                    playtime = 300;
+                }
+                else if(type.match("half")){
+                    playtime = 600;
+                }
+                else if(type.match("whole")){
+                    playtime = 1200;
+                }
+
+                if(type.match("dot")){
+                    playtime = playtime*1.5;
+                }
+                else if(type.match("dotdot")){
+                    playtime = playtime*1.5;
+                    playtime = playtime*1.5;
+                }
+
+                playtime = playtime*g_play_tempo_multiplier;
+                return playtime;
+            }
+
+            function play() {
+                mm.Player.tone.context.resume();
+                //g_player.playNoteDown({pitch:67});
+
+                var semitoneArr = [];
+
+                var semitoneFlat = ["B","E","A","D","G","C","F"];
+                var semitoneSharp = ["F","C","G","D","A","E","B"];
+                if(hymn_info.transp.type == "flat"){
+                    for(var i=0;i< hymn_info.transp.cnt; i++){
+                        semitoneArr.push(semitoneFlat[i]);
+                    }
+                }else if(hymn_info.transp.type == "sharp"){
+                    for(var i=0;i< hymn_info.transp.cnt; i++){
+                        semitoneArr.push(semitoneSharp[i]);
+                    }
+                }
+                
+                var delay = 0;
+                for(var i=0 ; i < hymn_info.notes.length; i++){
+                    var type = hymn_info.notes[i].type;
+                    var playtime = getPlaytimeMyType(type);
+
+                    if(type.match("rest")){
+                        delay += playtime;
+                        continue;
+                    }
+
+                    var tempPlaytime = playtime;
+
+                    if(typeof hymn_info.notes[i].gclef_sounds != "undefined" &&
+                     hymn_info.notes[i].gclef_sounds.length > 0){
+                        for(var j=0; j < hymn_info.notes[i].gclef_sounds.length ;j++){
+                            var gclef_sounds = hymn_info.notes[i].gclef_sounds[j];
+                            
+                            var mrk = gclef_sounds.mrk;
+                            var sfn = gclef_sounds.sfn;
+                            var marksArr = mrk.split("/");
+                            var sfnsArr = sfn.split("/");
+
+                            if(marksArr.length > 0){
+                                var typesArr = [];
+                                if(typeof gclef_sounds.types != "undefined"){
+                                    var types = gclef_sounds.types;
+                                    typesArr = types.split("/");
+                                }else{
+                                    typesArr.push(type);
+                                }
+                                
+                                var tempplaytimeadder=0;
+                                for(var k=0;k<marksArr.length;k++){
+                                    playtime = getPlaytimeMyType(typesArr[k]);
+
+                                    if(typesArr[k].match("rest")){
+                                        tempplaytimeadder += playtime;
+                                        continue;
+                                    }
+
+                                    var bakedMark = marksArr[k]+(sfnsArr[k] == "no" ? "" : sfnsArr[k]);
+                                    bakedMark = getSfnFromSemitone(semitoneArr, hymn_info.transp.type, bakedMark);
+                                    var pitch = gSopPitch.get(bakedMark);
+                                    pitch = pitch+69-12;
+
+                                    setTimeout(function(argPitch){
+                                        g_player.playNoteDown({pitch:argPitch});
+                                    }, delay+tempplaytimeadder, pitch);
+                                    setTimeout(function(argPitch){
+                                        g_player.playNoteUp({pitch:argPitch});
+                                    }, delay+tempplaytimeadder+playtime, pitch);
+                                    tempplaytimeadder += playtime;
+                                }
+                            }
+                        }
+                    }
+                    
+                    if(typeof hymn_info.notes[i].fclef_sounds != "undefined" &&
+                     hymn_info.notes[i].fclef_sounds.length > 0){
+                        for(var j=0; j < hymn_info.notes[i].fclef_sounds.length ;j++){
+                            var fclef_sounds = hymn_info.notes[i].fclef_sounds[j];
+                            
+                            var mrk = fclef_sounds.mrk;
+                            var sfn = fclef_sounds.sfn;
+                            var marksArr = mrk.split("/");
+                            var sfnsArr = sfn.split("/");
+
+                            if(marksArr.length > 0){
+                                var typesArr = [];
+                                if(typeof fclef_sounds.types != "undefined"){
+                                    var types = fclef_sounds.types;
+                                    typesArr = types.split("/");
+                                }else{
+                                    typesArr.push(type);
+                                }
+                                
+                                var tempplaytimeadder=0;
+                                for(var k=0;k<marksArr.length;k++){
+                                    playtime = getPlaytimeMyType(typesArr[k]);
+
+                                    if(typesArr[k].match("rest")){
+                                        tempplaytimeadder += playtime;
+                                        continue;
+                                    }
+
+                                    var bakedMark = marksArr[k]+(sfnsArr[k] == "no" ? "" : sfnsArr[k]);
+                                    bakedMark = getSfnFromSemitone(semitoneArr, hymn_info.transp.type, bakedMark);
+                                    var pitch = gSopPitch.get(bakedMark);
+                                    pitch = pitch+45;
+
+                                    setTimeout(function(argPitch){
+                                        g_player.playNoteDown({pitch:argPitch});
+                                    }, delay+tempplaytimeadder, pitch);
+                                    setTimeout(function(argPitch){
+                                        g_player.playNoteUp({pitch:argPitch});
+                                    }, delay+tempplaytimeadder+playtime, pitch);
+                                    tempplaytimeadder += playtime;
+                                }
+                            }
+                        }
+                    }
+                    
+
+                    delay += tempPlaytime;
+                }
+            }
+            function sleep (delay) {
+                var start = new Date().getTime();
+             while (new Date().getTime() < start + delay);
+            }
+
             function play2() {
                 g_player.playNoteUp({pitch:67});
             }
