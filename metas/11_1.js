@@ -358,6 +358,268 @@ var hymn_info={
 			"사",
 			"고"
 		]
+	},
+	{
+		type : "half",
+		gclef_sounds : [
+			{ mrk : "1G", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1E", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2B",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1E", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"별",
+			"참",
+			"강",
+			"밤"
+		]
+	},
+	{
+		type : "quarterdot",
+		gclef_sounds : [
+			{ mrk : "1G", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1E", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2C",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1C", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"들",
+			"자",
+			"한",
+			"지"
+		]
+	},
+	{
+		type : "eighth",
+		gclef_sounds : [
+			{ mrk : "1G", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1E", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2C",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1C", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"의",
+			"유",
+			"팔",
+			"나"
+		]
+	},
+	{
+		type : "halfdot",
+		gclef_sounds : [
+			{ mrk : "2B", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1D", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2B",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1G", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"무",
+			"누",
+			"우",
+			"도"
+		]
+	},
+	{
+		type : "quarter",
+		gclef_sounds : [
+			{ mrk : "2C", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1E", 
+			stem : "up",
+			sfn : "@n"}
+		],
+		fclef_sounds : [
+			{ mrk : "2B",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1G", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"리",
+			"리",
+			"리",
+			"록"
+		]
+	},
+	{
+		type : "quarter",
+		gclef_sounds : [
+			{ mrk : "2D", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2B",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"다",
+			"도",
+			"품",
+			"인"
+		]
+	},
+	{
+		type : "quarter",
+		gclef_sounds : [
+			{ mrk : "2B", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2D",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"이",
+			"록",
+			"어",
+			"도"
+		]
+	},
+	{
+		type : "quarter",
+		gclef_sounds : [
+			{ mrk : "2B", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2C",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"끄",
+			"하",
+			"주",
+			"하"
+		]
+	},
+	{
+		type : "quarter",
+		gclef_sounds : [
+			{ mrk : "2A", 
+			stem : "up",
+			sfn : "@n"},
+			{ mrk : "1F", 
+			stem : "up",
+			sfn : "no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2E",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"시",
+			"시",
+			"시",
+			"셔"
+		]
+	},
+	{
+		type : "whole",
+		gclef_sounds : [
+			{ mrk : "2B", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "1F", 
+			stem : "up",
+			sfn : "no"},
+			{ mrk : "2A/2B/2B/2B/2B/2B",
+			types : "quarterrest/triplet/triplet/triplet/quarter/quarter",
+			stem : "no/up/up/up/up/up",
+			sfn : "no/no/no/no/no/no"},
+			{ mrk : "2A/1F/1F/1F/1F/1F",
+			types : "quarterrest/triplet/triplet/triplet/quarter/quarter",
+			stem : "no/up/up/up/up/up",
+			sfn : "no/no/no/no/no/no"},
+			{ mrk : "2A/1D/1D/1D/1D/1D",
+			types : "quarterrest/triplet/triplet/triplet/quarter/quarter",
+			stem : "no/up/up/up/up/up",
+			sfn : "no/no/no/no/no/no"}
+		],
+		fclef_sounds : [
+			{ mrk : "2D",
+			stem : "down",
+			sfn : "no"},
+			{ mrk : "1B", 
+			stem : "down",
+			sfn : "no"}
+		],
+		captions : [
+			"니",
+			"니",
+			"고",
+			"서"
+		]
 	}
 	]
 };
