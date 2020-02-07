@@ -77,12 +77,15 @@ var hymn_info={
 		type : "whole",
 		gclef_sounds : [
 			{ mrk : "2B/2B/2B/2B", 
+			types : "quarter/quarter/quarter/quarter",
 			stem : "up/up/up/up",
 			sfn : "no/no/no/no"},
 			{ mrk : "1G/1G/1G/1G", 
+			types : "quarter/quarter/quarter/quarter",
 			stem : "up/up/up/up",
 			sfn : "no/no/no/no"},
 			{ mrk : "1E/1E/1E/1E", 
+			types : "quarter/quarter/quarter/quarter",
 			stem : "up/up/up/up",
 			sfn : "no/no/no/up"}
 		],
