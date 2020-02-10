@@ -285,7 +285,7 @@ var hymn_info={
 			stem : "up",
 			sfn : "no"},
 			{ mrk : "1E/1D", 
-			quarter : "eighth/eighth",
+			types : "eighth/eighth",
 			stem : "down/down",
 			sfn : "no/no"}
 		],
