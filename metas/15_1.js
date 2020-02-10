@@ -638,10 +638,10 @@ var hymn_info={
 		gclef_sounds : [
 			{ mrk : "1G", 
 			stem : "up",
-			sfn : "@f"},
+			sfn : "no"},
 			{ mrk : "1D", 
 			stem : "up",
-			sfn : "no"}
+			sfn : "@f"}
 		],
 		fclef_sounds : [
 			{ mrk : "2B",
@@ -663,10 +663,10 @@ var hymn_info={
 		gclef_sounds : [
 			{ mrk : "1G", 
 			stem : "up",
-			sfn : "@f"},
+			sfn : "no"},
 			{ mrk : "1D", 
 			stem : "up",
-			sfn : "no"}
+			sfn : "@f"}
 		],
 		fclef_sounds : [
 			{ mrk : "2B",
@@ -736,7 +736,7 @@ var hymn_info={
 	{
 		type : "quarter",
 		gclef_sounds : [
-			{ mrk : "2C", 
+			{ mrk : "2B", 
 			stem : "up",
 			sfn : "no"},
 			{ mrk : "1E", 
