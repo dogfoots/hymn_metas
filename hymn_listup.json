@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.23",
+	"list_version" : "0.0.24",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -256,6 +256,24 @@
 			},
 			"meta_path" : "/metas/14_1.js",
 			"track_path" : "/tracks/14_1.m4a"
+		},
+		{
+			"no" : 15,
+			"title" : "만유의 대왕",
+			"en_title" : "O Worship the King",
+			"bbverse" : "시 104:1",
+			"bbtxt" : "오 내 혼아, 주를 송축하라. 오 주 나의 하나님이여, 주께서는 지극히 위대하시며 존귀와 위엄으로 옷입으셨나이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Robert Grant",
+				"desc" : "1833(1814-1892)"
+			},
+			"writer_mdy" : {
+				"name" : "Johann M. Haydn",
+				"desc" : "1770(1731-1806)"
+			},
+			"meta_path" : "/metas/15_1.js",
+			"track_path" : "/tracks/15_1.m4a"
 		},
 		{
 			"no" : 134,
