@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.22",
+	"list_version" : "0.0.23",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -238,6 +238,24 @@
 			},
 			"meta_path" : "/metas/13_1.js",
 			"track_path" : "/tracks/13_1.m4a"
+		},
+		{
+			"no" : 14,
+			"title" : "왕 되신 주님께",
+			"en_title" : "Rejoice, the Lord Is King",
+			"bbverse" : "계 1:18",
+			"bbtxt" : "나는 살아 있는 자며, 죽은 자였으나, 보라, 영원무궁토록 살아 있노라. 아멘. 또한 내가 지옥과 사망의 열쇠들을 가졌노라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Charles Wesley",
+				"desc" : "1746(1707-1788)"
+			},
+			"writer_mdy" : {
+				"name" : "John Darwall",
+				"desc" : "1770(1731-1789)"
+			},
+			"meta_path" : "/metas/14_1.js",
+			"track_path" : "/tracks/14_1.m4a"
 		},
 		{
 			"no" : 134,
