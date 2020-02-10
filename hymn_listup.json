@@ -1,5 +1,5 @@
 {
-	"list_version" : "0.0.21",
+	"list_version" : "0.0.22",
 	"latest_update" : {
 		"name" : "Heecheol-Kim",
 		"date" : "2019-12-23 12:00:00"
@@ -202,6 +202,42 @@
 			},
 			"meta_path" : "/metas/11_1.js",
 			"track_path" : "/tracks/11_1.m4a"
+		},
+		{
+			"no" : 12,
+			"title" : "하늘에 가득찬 영광의 하나님",
+			"en_title" : "",
+			"bbverse" : "요 4:23,24",
+			"bbtxt" : "그러나 참된 경배자들이 아버지께 영과 진리로 경배드릴 때가 오나니 바로 지금이라. 이는 아버지께서 자기에게 경배드리는 그런 자들을 찾으심이니라. 하나님은 한 영이시니 그분께 경배드리는 자들은 영과 진리로 경배드려야만 하리라.\"고 하시니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Kim, Jung Jun",
+				"desc" : "1967(1914-1981)"
+			},
+			"writer_mdy" : {
+				"name" : "Kwak, Sang Su",
+				"desc" : "1967(1923-2013)"
+			},
+			"meta_path" : "/metas/12_1.js",
+			"track_path" : "/tracks/12_1.m4a"
+		},
+		{
+			"no" : 13,
+			"title" : "온 땅에 있는 성도여",
+			"en_title" : "All People That on Earth Do Dwell",
+			"bbverse" : "시 100:1-5",
+			"bbtxt" : "너희 온 땅들아, 주께 즐거운 소리를 내어라. 기쁨으로 주를 섬기라. 노래하며 그의 임재 앞으로 나아오라. 너희는 주, 그가 하나님이심을 알라. 우리를 지으신 분은 우리들 자신이 아니라 그분이시라. 우리는 그의 백성이요, 그의 초장의 양이로다...",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "William Kethe",
+				"desc" : "(16th Century)"
+			},
+			"writer_mdy" : {
+				"name" : "Louis Bourgeois",
+				"desc" : "1551(1510-1561)"
+			},
+			"meta_path" : "/metas/13_1.js",
+			"track_path" : "/tracks/13_1.m4a"
 		},
 		{
 			"no" : 134,
