@@ -420,6 +420,24 @@
 			"track_path" : "/tracks/23_1.m4a"
 		},
 		{
+			"no" : 24,
+			"title" : "주 하나님 큰 일을 행하셨네",
+			"en_title" : "To God Be the Glory",
+			"bbverse" : "시 29:2",
+			"bbtxt" : "그의 이름에 합당한 영광을 주께 돌리고 거룩함의 아름다움으로 주께 경배할지어다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1875(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "William H. Doane",
+				"desc" : "1875(1832-1915)"
+			},
+			"meta_path" : "/metas/24_1.js",
+			"track_path" : "/tracks/24_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
