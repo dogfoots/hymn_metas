@@ -384,6 +384,24 @@
 			"track_path" : "/tracks/21_1.m4a"
 		},
 		{
+			"no" : 22,
+			"title" : "기뻐하며 경배하세",
+			"en_title" : "Joyful, joyful, We Adore Thee",
+			"bbverse" : "시 107:22",
+			"bbtxt" : "그들로 감사의 희생제를 드리며 기쁨으로 그의 행사들을 선포하게 하라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Henry J. van Dyke",
+				"desc" : "1907(1852-1933)"
+			},
+			"writer_mdy" : {
+				"name" : "Ludwig van Beethoven",
+				"desc" : "1824(1770-1827)"
+			},
+			"meta_path" : "/metas/22_1.js",
+			"track_path" : "/tracks/22_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
