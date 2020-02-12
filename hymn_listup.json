@@ -402,6 +402,24 @@
 			"track_path" : "/tracks/22_1.m4a"
 		},
 		{
+			"no" : 23,
+			"title" : "거룩한 주님께",
+			"en_title" : "Worship the Lord in the Beauty of Holiness",
+			"bbverse" : "시 29:2",
+			"bbtxt" : "그의 이름에 합당한 영광을 주께 돌리고 거룩함의 아름다움으로 주께 경배할지어다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "John S. B. Monsell",
+				"desc" : "1863(1811-1875)"
+			},
+			"writer_mdy" : {
+				"name" : "William f. Sherwin",
+				"desc" : "1873(1826-1888)"
+			},
+			"meta_path" : "/metas/23_1.js",
+			"track_path" : "/tracks/23_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
