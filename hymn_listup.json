@@ -348,6 +348,24 @@
 			"track_path" : "/tracks/19_1.m4a"
 		},
 		{
+			"no" : 20,
+			"title" : "주 예수 이름 높이어",
+			"en_title" : "All Hail the Power of Jesus' Name",
+			"bbverse" : "계 19:16",
+			"bbtxt" : "또 그의 옷과 넓적다리에 이름이 기록되어 있는데 \"만왕의 왕, 또 만주의 주\"라 하였더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Edward Perronet, 1779",
+				"desc" : "Adapt, by John Rippon, 1787"
+			},
+			"writer_mdy" : {
+				"name" : "James Eliot",
+				"desc" : "1838(1819-1893)"
+			},
+			"meta_path" : "/metas/20_1.js",
+			"track_path" : "/tracks/20_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
