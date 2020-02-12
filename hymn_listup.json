@@ -366,6 +366,24 @@
 			"track_path" : "/tracks/20_1.m4a"
 		},
 		{
+			"no" : 21,
+			"title" : "성도여 찬양해",
+			"en_title" : "Come, Christians, Join to Sing",
+			"bbverse" : "계 19:1",
+			"bbtxt" : "이 일들 후에 내가 들으니, 하늘에서 많은 사람의 큰 음성이 있어 말하기를 \"할렐루야, 구원과 영광과 존귀와 권세가 주 우리 하나님께 있도다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Christian H. Bateman",
+				"desc" : "1843(1813-1889)"
+			},
+			"writer_mdy" : {
+				"name" : "Traditional Spanish Melody",
+				"desc" : "Arr. by David Evans, 1874-1948"
+			},
+			"meta_path" : "/metas/21_1.js",
+			"track_path" : "/tracks/21_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
