@@ -294,6 +294,24 @@
 			"track_path" : "/tracks/16_1.m4a"
 		},
 		{
+			"no" : 17,
+			"title" : "주님이 주신 세계",
+			"en_title" : "For the Beauty of the Earth",
+			"bbverse" : "시 104:24,25",
+			"bbtxt" : "오 주여, 주께서 하시는 일들이 얼마나 다양한지요! 주께서 그들 모두를 지혜로 지으셨으니 땅이 주의 풍요로 가득 찼나이다. 이 크고 넓은 바다가 그러하오며 그 속에 기어다니는 것들, 즉 크고 작은 짐승들은 셀 수가 없나이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Falliott S. Pierpoint",
+				"desc" : "1864(1835-1917)"
+			},
+			"writer_mdy" : {
+				"name" : "Conrad Kocher",
+				"desc" : "1838(1786-1872)"
+			},
+			"meta_path" : "/metas/17_1.js",
+			"track_path" : "/tracks/17_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
