@@ -58,7 +58,7 @@ var hymn_info={
 			{ mrk : "1F/1G", 
 			types : "eighth/eighth",
 			stem : "up/up",
-			sfn : "nono"},
+			sfn : "no/no"},
 			{ mrk : "1D", 
 			stem : "down",
 			sfn : "no"}

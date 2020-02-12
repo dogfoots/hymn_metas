@@ -312,6 +312,24 @@
 			"track_path" : "/tracks/17_1.m4a"
 		},
 		{
+			"no" : 18,
+			"title" : "우리에게 복을 주시니",
+			"en_title" : "Lord, Dismiss Us with Thy Blessing",
+			"bbverse" : "시 1:1-6",
+			"bbtxt" : "복 있는 사람은 악인들의 간계를 따르지 아니하며, 죄인들의 길에 서지 아니하며, 조롱하는 자들의 자리에 앉지 아니하는도다. 그의 즐거움이 주의 법에 있으니, 그가 주의 법을 주야로 묵상하는도다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "John Fawcett",
+				"desc" : "1773(1740-1817)"
+			},
+			"writer_mdy" : {
+				"name" : "<Scilian Mariners>",
+				"desc" : "1794"
+			},
+			"meta_path" : "/metas/18_1.js",
+			"track_path" : "/tracks/18_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
