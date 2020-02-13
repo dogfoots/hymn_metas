@@ -528,6 +528,24 @@
 			"track_path" : "/tracks/29_1.m4a"
 		},
 		{
+			"no" : 30,
+			"title" : "구세주를 아는 이들",
+			"en_title" : "Praise the Saviour, Ye Who Know Him",
+			"bbverse" : "히 13:15",
+			"bbtxt" : "그러므로 우리가 그분을 통해서 찬양의 제물을 하나님께 계속해서 드리자. 이것이 그의 이름에 감사하는 우리 입술의 열매니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Thomas Kelly",
+				"desc" : "1806(1769-1854)"
+			},
+			"writer_mdy" : {
+				"name" : "German Melody",
+				"desc" : ""
+			},
+			"meta_path" : "/metas/30_1.js",
+			"track_path" : "/tracks/30_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
