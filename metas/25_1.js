@@ -357,7 +357,7 @@ var hymn_info={
 	{
 		type : "quarter",
 		gclef_sounds : [
-			{ mrk : "1E/1F", 
+			{ mrk : "1D/1E", 
 			types : "eighth/eighth",
 			stem : "up/up",
 			sfn : "no/no"},
@@ -383,10 +383,10 @@ var hymn_info={
 	{
 		type : "half",
 		gclef_sounds : [
-			{ mrk : "1E", 
+			{ mrk : "1C", 
 			stem : "up",
 			sfn : "no"},
-			{ mrk : "1C", 
+			{ mrk : "1A", 
 			stem : "up",
 			sfn : "no"}
 		],
