@@ -16,7 +16,7 @@ var hymn_info={
 	},
 
 	transp : {
-		type : "flat",
+		type : "sharp",
 		cnt : 1
 	},
 
