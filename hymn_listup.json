@@ -474,6 +474,24 @@
 			"track_path" : "/tracks/26_1.m4a"
 		},
 		{
+			"no" : 27,
+			"title" : "시온의 영광이 빛나는 아침",
+			"en_title" : "Hail to the Brightness of Zion's Glad Morning!",
+			"bbverse" : "사 60:1",
+			"bbtxt" : "일어나라, 빛을 비추라. 이는 네 빛이 왔고, 주의 영광이 네 위에 솟아났음이라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Thomas Hastings",
+				"desc" : "1831(1784-1872)"
+			},
+			"writer_mdy" : {
+				"name" : "Lowel Mason",
+				"desc" : "1830(1792-1872)"
+			},
+			"meta_path" : "/metas/27_1.js",
+			"track_path" : "/tracks/27_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
