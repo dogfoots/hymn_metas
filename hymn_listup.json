@@ -438,6 +438,24 @@
 			"track_path" : "/tracks/24_1.m4a"
 		},
 		{
+			"no" : 25,
+			"title" : "하나님의 크신 사랑",
+			"en_title" : "Love Divine, All Loves Excelling",
+			"bbverse" : "골 3:14",
+			"bbtxt" : "이 모든 것 위에 사랑을 더하라. 이것이 온전함의 띠니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Charles Wesley",
+				"desc" : "1747(1707-1788)"
+			},
+			"writer_mdy" : {
+				"name" : "John Zundel",
+				"desc" : "1870(1815-1882)"
+			},
+			"meta_path" : "/metas/25_1.js",
+			"track_path" : "/tracks/25_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
