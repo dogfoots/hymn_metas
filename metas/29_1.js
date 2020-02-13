@@ -938,7 +938,7 @@ var hymn_info={
 			sfn : "no"},
 			{ mrk : "1C", 
 			stem : "up",
-			sfn : "no"}
+			sfn : "@s"}
 		],
 		fclef_sounds : [
 			{ mrk : "2A",
