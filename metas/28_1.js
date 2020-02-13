@@ -293,7 +293,7 @@ var hymn_info={
 			sfn : "no"},
 			{ mrk : "1D", 
 			stem : "up",
-			sfn : "no"}
+			sfn : "@s"}
 		],
 		fclef_sounds : [
 			{ mrk : "2B",
@@ -760,7 +760,7 @@ var hymn_info={
 			sfn : "no"},
 			{ mrk : "1D", 
 			stem : "up",
-			sfn : "no"}
+			sfn : "@s"}
 		],
 		fclef_sounds : [
 			{ mrk : "2B",
