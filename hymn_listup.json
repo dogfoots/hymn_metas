@@ -492,6 +492,24 @@
 			"track_path" : "/tracks/27_1.m4a"
 		},
 		{
+			"no" : 28,
+			"title" : "하나님이 친히",
+			"en_title" : "God Himself Is with Us",
+			"bbverse" : "합 2:20",
+			"bbtxt" : "그러나 주께서는 그의 거룩한 전에 계시니 온 땅은 그 앞에 잠잠할지니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Gerhard Tersteegen",
+				"desc" : "1729(1697-1769)"
+			},
+			"writer_mdy" : {
+				"name" : "Joachin Neander",
+				"desc" : "1680(1650-1680)"
+			},
+			"meta_path" : "/metas/28_1.js",
+			"track_path" : "/tracks/28_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
