@@ -456,6 +456,24 @@
 			"track_path" : "/tracks/25_1.m4a"
 		},
 		{
+			"no" : 26,
+			"title" : "왕 되신 우리 주께",
+			"en_title" : "All Glory, Land and Honor",
+			"bbverse" : "막 11:9,10",
+			"bbtxt" : "사람들이 앞서 가서 뒤따르며, 소리질러 말하기를 \"호산나, 주의 이름으로 오시는 분은 복이 있도다. 주의 이름으로 오는 우리의 조상 다윗의 왕국은 복이 있도다. 지극히 높은 곳에서 호산나.\"라고 하더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Theodylph of Orleans",
+				"desc" : "820(760-821)"
+			},
+			"writer_mdy" : {
+				"name" : "Melchoir Teschner",
+				"desc" : "1613(1584-1635)"
+			},
+			"meta_path" : "/metas/26_1.js",
+			"track_path" : "/tracks/26_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
