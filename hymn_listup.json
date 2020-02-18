@@ -546,6 +546,42 @@
 			"track_path" : "/tracks/30_1.m4a"
 		},
 		{
+			"no" : 31,
+			"title" : "주 은혜를 구하려",
+			"en_title" : "We Gather Together",
+			"bbverse" : "시 33:12,13",
+			"bbtxt" : "자기들의 하나님이 주이신 민족은 복이 있으며 주께서 자기 유업으로 택하신 백성은 복이 있도다. 주께서 하늘에서 굽어보시며 모든 사람들의 아들들을 보고 계시는도다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Dutch Folk Hymn",
+				"desc" : "Trans. by Theodore Baker, 1894"
+			},
+			"writer_mdy" : {
+				"name" : "<Netherlandtsch Gedencklanck>",
+				"desc" : "1626"
+			},
+			"meta_path" : "/metas/31_1.js",
+			"track_path" : "/tracks/31_1.m4a"
+		},
+		{
+			"no" : 32,
+			"title" : "주 찬양하세",
+			"en_title" : "Revive Us Again",
+			"bbverse" : "계 19:1",
+			"bbtxt" : "이 일들 후에 내가 들으니, 하늘에서 많은 사람의 큰 음성이 있어 말하기를 \"할렐루야, 구원과 영광과 존귀와 권세가 주 우리 하나님께 있도다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Dutch Folk Hymn",
+				"desc" : "Trans. by Theodore Baker, 1894"
+			},
+			"writer_mdy" : {
+				"name" : "<Netherlandtsch Gedencklanck>",
+				"desc" : "1626"
+			},
+			"meta_path" : "/metas/32_1.js",
+			"track_path" : "/tracks/32_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
