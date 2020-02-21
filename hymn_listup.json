@@ -636,6 +636,168 @@
 			"track_path" : "/tracks/35_1.m4a"
 		},
 		{
+			"no" : 36,
+			"title" : "거룩하신 하나님께",
+			"en_title" : "Glorious Is Thy Name, Most Holy",
+			"bbverse" : "출 16:4",
+			"bbtxt" : "그때에 주께서 모세에게 말씀하시기를 \"보라, 내가 너희를 위해 하늘로부터 빵을 비처럼 내리리니, 백성들은 나가서 매일 일정한 양을 거둘 것이요, 이로써 나는 그들이 내 법대로 행하는지 행하지 않는지 시험하리라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Ruth Elliott",
+				"desc" : "1954(1887-1961)"
+			},
+			"writer_mdy" : {
+				"name" : "William Moore",
+				"desc" : "1825(19th Century)"
+			},
+			"meta_path" : "/metas/36_1.js",
+			"track_path" : "/tracks/36_1.m4a"
+		},
+		{
+			"no" : 37,
+			"title" : "성도들아 바라보라",
+			"en_title" : "Look, Ye Saints! The Sight Is Glorious",
+			"bbverse" : "계 4:10",
+			"bbtxt" : "스물네 장로가 보좌에 앉으신 분 앞에 엎드려 영원무궁토록 살아 계시는 분께 경배하며 그들의 면류관을 그 보좌 앞에 던지며 말씀드리기를",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Thomas Kelly",
+				"desc" : "1809(1769-1855)"
+			},
+			"writer_mdy" : {
+				"name" : "William H.Monk",
+				"desc" : "1871(1823-1889)"
+			},
+			"meta_path" : "/metas/37_1.js",
+			"track_path" : "/tracks/37_1.m4a"
+		},
+		{
+			"no" : 38,
+			"title" : "다 감사드리세",
+			"en_title" : "Now Thank We All Our God",
+			"bbverse" : "대상 29:13",
+			"bbtxt" : "우리 하나님이여, 그러므로 이제, 우리가 주께 감사드리고 주의 영광스러운 이름을 찬양하나이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Martin Rinckart",
+				"desc" : "1636(1586-1649)"
+			},
+			"writer_mdy" : {
+				"name" : "Johann Crueger",
+				"desc" : "1647(1598-1662)"
+			},
+			"meta_path" : "/metas/38_1.js",
+			"track_path" : "/tracks/38_1.m4a"
+		},
+		{
+			"no" : 39,
+			"title" : "성도들아 참 안식 얻은 이",
+			"en_title" : "For All the Saints",
+			"bbverse" : "시 144:1,2",
+			"bbtxt" : "나의 힘이신 주를 송축하리로다. 그가 내 손을 가르치시어 전쟁에 임하게 하시고 내 손가락을 가르치시어 싸우게 하시나니 나의 선함이시며 나의 요새시요, 나의 높은 망대시며 나의 구원자시요, 나의 방패시며 내가 신뢰하는 분이시요, 내 백성들로 내 아래 복종케 하시는 분이시로다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "William W. How",
+				"desc" : "1864(1823-1897)"
+			},
+			"writer_mdy" : {
+				"name" : "Ralph V. Williams",
+				"desc" : "1906(1872-1958)"
+			},
+			"meta_path" : "/metas/39_1.js",
+			"track_path" : "/tracks/39_1.m4a"
+		},
+		{
+			"no" : 40,
+			"title" : "내 영혼아 찬양하라",
+			"en_title" : "Praise, My Soul, the King of Heaven",
+			"bbverse" : "시 103:1,2",
+			"bbtxt" : "오 내 혼아, 주를 송축하라. 내 안에 있는 모든 것들아, 그의 거룩한 이름을 송축하라. 오 내 혼아, 주를 송축하고 그의 모든 베푸심을 잊지 말라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Henry F. Lyte",
+				"desc" : "1834(1793-1847)"
+			},
+			"writer_mdy" : {
+				"name" : "Henry T. Smart",
+				"desc" : "1867(1813-1879)"
+			},
+			"meta_path" : "/metas/40_1.js",
+			"track_path" : "/tracks/40_1.m4a"
+		},
+		{
+			"no" : 41,
+			"title" : "하나님 허락하시는 말씀 듣고",
+			"en_title" : "Tis the Promise of God",
+			"bbverse" : "계 7:12-14",
+			"bbtxt" : "말하기를 \"아멘. 찬송과 영광과 지혜와 감사와 존귀와 권세와 능력이 우리 하나님께 영원무궁토록 있나이다. 아멘.\" 하더라. 그때 장로 가운데 한 사람이 대답하여 나에게 말하기를 \"흰 옷을 입은 이 사람들이 누구며, 어디서 왔느냐?\" 하기에",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Philip. P. Bliss",
+				"desc" : "1874(1838-1876)"
+			},
+			"writer_mdy" : {
+				"name" : "Philip. P. Bliss",
+				"desc" : "1874(1838-1876)"
+			},
+			"meta_path" : "/metas/41_1.js",
+			"track_path" : "/tracks/41_1.m4a"
+		},
+		{
+			"no" : 42,
+			"title" : "주 사랑하는 자",
+			"en_title" : "Come, We That Love the Lord",
+			"bbverse" : "요 4:23,24",
+			"bbtxt" : "그러나 참된 경배자들이 아버지께 영과 진리로 경배드릴 때가 오나니 바로 지금이라. 이는 아버지께서 자기에게 경배드리는 그런 자들을 찾으심이니라. 하나님은 한 영이시니 그분께 경배드리는 자들은 영과 진리로 경배드려야만 하리라.\"고 하시니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Isaac Watts",
+				"desc" : "1707(1674-1748)"
+			},
+			"writer_mdy" : {
+				"name" : "Aaron Williams",
+				"desc" : "1763(1731-1776)"
+			},
+			"meta_path" : "/metas/42_1.js",
+			"track_path" : "/tracks/42_1.m4a"
+		},
+		{
+			"no" : 43,
+			"title" : "내 영혼아 주 찬양하여라",
+			"en_title" : "Be Still My Soul",
+			"bbverse" : "시 46:10",
+			"bbtxt" : "가만 있으라. 그리고 내가 하나님인 것을 알라. 내가 이방 가운데서 높임을 받으리니 내가 지상에서 높임을 받으리라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Katharina von Schelgel",
+				"desc" : "1752(1697-1768)"
+			},
+			"writer_mdy" : {
+				"name" : "Jean Sibelius",
+				"desc" : "1899(1865-1957)"
+			},
+			"meta_path" : "/metas/43_1.js",
+			"track_path" : "/tracks/43_1.m4a"
+		},
+		{
+			"no" : 44,
+			"title" : "빛나고 높은 보좌",
+			"en_title" : "Majestic Sweetness Sits Enthroned",
+			"bbverse" : "히 2:9",
+			"bbtxt" : "그러나 우리가 죽음의 고난 때문에 천사들보다 조금 낮아지신 예수를 보니, 영광과 존귀로 관을 쓰셨도다. 이는 하나님의 은혜로 말미암아 모든 사람을 위하여 죽음을 맛보기 위함이더라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Samuel Stennett",
+				"desc" : "1787(1727-1795)"
+			},
+			"writer_mdy" : {
+				"name" : "Thomas Hastings",
+				"desc" : "1837(1784-1872)"
+			},
+			"meta_path" : "/metas/44_1.js",
+			"track_path" : "/tracks/44_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",

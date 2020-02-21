@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <script type="text/javascript" src="./metas/35_1.js"></script>
+        <script type="text/javascript" src="./metas/44_1.js"></script>
         <!-- Load @magenta/music -->
         <script src="https://cdn.jsdelivr.net/npm/@magenta/music@1.3.1"></script>
         <script>
@@ -57,7 +57,7 @@
             }
             var g_player = new mm.SoundFontPlayer('https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus');
 
-            var g_play_tempo_multiplier = 2.1;
+            var g_play_tempo_multiplier = 3.5;//2.1;
 
             function init(){
                 const seq = {notes:[]};
@@ -141,7 +141,6 @@
             gSopPitch.put("3G@s", 35);
             gSopPitch.put("4A@f", 35);
 
-            
             //48 C ten
             //72 C sop
 
@@ -169,6 +168,8 @@
             }
 
             function getPlaytimeMyType(type){
+                if(type == null) return 0;
+
                 var playtime = 0;
                 if(type.match("sixteenth")){
                     playtime = 75;
@@ -222,6 +223,7 @@
                 var delay = 0;
                 for(var i=0 ; i < hymn_info.notes.length; i++){
                     var type = hymn_info.notes[i].type;
+                    var mute = hymn_info.notes[i].mute;
                     var playtime = getPlaytimeMyType(type);
 
                     var fermata_multiply = 1.0;
@@ -230,7 +232,7 @@
                         fermata_multiply = hymn_info.notes[i].fermata_multiply;
                     }
 
-                    if(type.match("rest")){
+                    if((mute != null && mute == "ok") || type.match("rest")){
                         delay += playtime*fermata_multiply;
                         continue;
                     }
@@ -241,9 +243,12 @@
                      hymn_info.notes[i].gclef_sounds.length > 0){
                         for(var j=0; j < hymn_info.notes[i].gclef_sounds.length ;j++){
                             var gclef_sounds = hymn_info.notes[i].gclef_sounds[j];
+
                             
                             var mrk = gclef_sounds.mrk;
                             var sfn = gclef_sounds.sfn;
+                            var slurs = gclef_sounds.slurs;
+
                             var marksArr = mrk.split("/");
                             var sfnsArr = sfn.split("/");
 
@@ -259,6 +264,11 @@
                                 var tempplaytimeadder=0;
                                 for(var k=0;k<marksArr.length;k++){
                                     playtime = getPlaytimeMyType(typesArr[k]) * fermata_multiply;
+
+                                    if(slurs != null &&
+                                    slurs.length > k){
+                                        playtime += getPlaytimeMyType(slurs[k].additional_perf_type) * fermata_multiply;
+                                    }
 
                                     if(typesArr[k].match("rest")){
                                         tempplaytimeadder += playtime;
@@ -277,6 +287,8 @@
                                         g_player.playNoteUp({pitch:argPitch});
                                     }, delay+tempplaytimeadder+playtime, pitch);
                                     tempplaytimeadder += playtime;
+
+
                                 }
                             }
                         }
@@ -289,6 +301,8 @@
                             
                             var mrk = fclef_sounds.mrk;
                             var sfn = fclef_sounds.sfn;
+                            var slurs = fclef_sounds.slurs;
+
                             var marksArr = mrk.split("/");
                             var sfnsArr = sfn.split("/");
 
@@ -304,6 +318,11 @@
                                 var tempplaytimeadder=0;
                                 for(var k=0;k<marksArr.length;k++){
                                     playtime = getPlaytimeMyType(typesArr[k]) * fermata_multiply;
+
+                                    if(slurs != null &&
+                                    slurs.length > k){
+                                        playtime += getPlaytimeMyType(slurs[k].additional_perf_type) * fermata_multiply;
+                                    }
 
                                     if(typesArr[k].match("rest")){
                                         tempplaytimeadder += playtime;
