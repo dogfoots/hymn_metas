@@ -852,6 +852,24 @@
 			"track_path" : "/tracks/47_1.m4a"
 		},
 		{
+			"no" : 48,
+			"title" : "영화롭다 주를 보라",
+			"en_title" : "Look, Ye Saints! The Sight Is Glorious",
+			"bbverse" : "시 8:5",
+			"bbtxt" : "주께서 그를 천사들보다 조금 낮게 지으셨으며 영화와 존귀로 그에게 관을 씌우셨나이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Thomas Kelly",
+				"desc" : "1809(1769-1855)"
+			},
+			"writer_mdy" : {
+				"name" : "George C. Stebbins",
+				"desc" : "1921(1846-1945)"
+			},
+			"meta_path" : "/metas/48_1.js",
+			"track_path" : "/tracks/48_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
