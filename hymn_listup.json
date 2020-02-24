@@ -798,6 +798,42 @@
 			"track_path" : "/tracks/44_1.m4a"
 		},
 		{
+			"no" : 45,
+			"title" : "찬양하라",
+			"en_title" : "Praise Him! Praise Him!",
+			"bbverse" : "시 150:2",
+			"bbtxt" : "그의 능하신 행적들로 인하여 그를 찬양하며 그의 뛰어난 위대하심을 따라 그를 찬양하라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1869(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "Chester G. Allen",
+				"desc" : "1869(1838-1878)"
+			},
+			"meta_path" : "/metas/45_1.js",
+			"track_path" : "/tracks/45_1.m4a"
+		},
+		{
+			"no" : 46,
+			"title" : "나의 기쁨 소망 생명이 되신 주",
+			"en_title" : "O Thou, in Whose Presence",
+			"bbverse" : "솔 6:2,3",
+			"bbtxt" : "나의 사랑하는 이는 그의 동산으로 내려가 향나무밭들에 이르러 동산들에서 양떼를 먹이고 백합꽃을 거두는도다. 나는 나의 사랑하는 이의 것이요, 나의 사랑하는 이는 내 것이라. 그가 백합꽃들 가운데서 양떼를 먹이는도다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Joseph Swain",
+				"desc" : "1791(1761-1796)"
+			},
+			"writer_mdy" : {
+				"name" : "Freeman Lewis",
+				"desc" : "1813(1780-1859)"
+			},
+			"meta_path" : "/metas/46_1.js",
+			"track_path" : "/tracks/46_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
