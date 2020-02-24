@@ -834,6 +834,24 @@
 			"track_path" : "/tracks/46_1.m4a"
 		},
 		{
+			"no" : 47,
+			"title" : "하늘 기쁨 넘쳐",
+			"en_title" : "Heavenly Joy is Ringing",
+			"bbverse" : "계 19:4,5",
+			"bbtxt" : "그때에 스물네 장로와 네 짐승이 엎드려 보좌에 앉으신 하나님께 경배드리며 말하기를 \"아멘, 할렐루야.\"라고 하니",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Robert C. Savage",
+				"desc" : "1954(1914-1987)"
+			},
+			"writer_mdy" : {
+				"name" : "Alfredo Colom M.",
+				"desc" : "1954(1904-1971)"
+			},
+			"meta_path" : "/metas/47_1.js",
+			"track_path" : "/tracks/47_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
