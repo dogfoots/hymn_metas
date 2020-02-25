@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <script type="text/javascript" src="./metas/49_1.js"></script>
+        <script type="text/javascript" src="./metas/50_1.js"></script>
         <!-- Load @magenta/music -->
         <script src="https://cdn.jsdelivr.net/npm/@magenta/music@1.3.1"></script>
         <script>
@@ -57,7 +57,7 @@
             }
             var g_player = new mm.SoundFontPlayer('https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus');
 
-            var g_play_tempo_multiplier = 2.1;//1.5;
+            var g_play_tempo_multiplier = 1.8;//1.5;
 
             function init(){
                 const seq = {notes:[]};
@@ -145,13 +145,13 @@
             //72 C sop
 
             function getSfnFromSemitone(semitoneArr, type, mrk){
-                if(mrk.match("@s") || mrk.match("@f")){
+                if(mrk.includes("@s") || mrk.includes("@f")){
                     return mrk;
                 }
 
-                if(!mrk.match("@n")){
+                if(!mrk.includes("@n")){
                     for(var i=0;i< semitoneArr.length; i++){
-                        if(mrk.match(semitoneArr[i])){
+                        if(mrk.includes(semitoneArr[i])){
                             if(type=="sharp"){
                                 mrk= mrk+"@s";
                             }else if(type=="flat"){
@@ -171,29 +171,29 @@
                 if(type == null) return 0;
 
                 var playtime = 0;
-                if(type.match("sixteenth")){
+                if(type.includes("sixteenth")){
                     playtime = 75;
                 }
-                else if(type.match("eighth")){
+                else if(type.includes("eighth")){
                     playtime = 150;
                 }
-                else if(type.match("quarter")){
+                else if(type.includes("quarter")){
                     playtime = 300;
                 }
-                else if(type.match("half")){
+                else if(type.includes("half")){
                     playtime = 600;
                 }
-                else if(type.match("whole")){
+                else if(type.includes("whole")){
                     playtime = 1200;
                 }
-                else if(type.match("triplet")){
+                else if(type.includes("triplet")){
                     playtime = 100;
                 }
 
-                if(type.match("dot")){
+                if(type.includes("dot")){
                     playtime = playtime*1.5;
                 }
-                else if(type.match("dotdot")){
+                else if(type.includes("dotdot")){
                     playtime = playtime*1.5;
                     playtime = playtime*1.5;
                 }
@@ -232,7 +232,7 @@
                         fermata_multiply = hymn_info.notes[i].fermata_multiply;
                     }
 
-                    if((mute != null && mute == "ok") || type.match("rest")){
+                    if((mute != null && mute == "ok") || type.includes("rest")){
                         delay += playtime*fermata_multiply;
                         continue;
                     }
@@ -268,13 +268,13 @@
                                     if(slurs != null &&
                                     slurs.length > k){
                                         playtime += getPlaytimeMyType(slurs[k].additional_perf_type) * fermata_multiply;
-                                        if(slurs[k].mute != null && slurs[k].mute.match("ok")){
+                                        if(slurs[k].mute != null && slurs[k].mute.includes("ok")){
                                             tempplaytimeadder += playtime;    
                                             continue;
                                         }
                                     }
 
-                                    if(typesArr[k].match("rest")){
+                                    if(typesArr[k].includes("rest")){
                                         tempplaytimeadder += playtime;
                                         continue;
                                     }
@@ -326,13 +326,13 @@
                                     if(slurs != null &&
                                     slurs.length > k){
                                         playtime += getPlaytimeMyType(slurs[k].additional_perf_type) * fermata_multiply;
-                                        if(slurs[k].mute != null && slurs[k].mute.match("ok")){
+                                        if(slurs[k].mute != null && slurs[k].mute.includes("ok")){
                                             tempplaytimeadder += playtime;    
                                             continue;
                                         }
                                     }
 
-                                    if(typesArr[k].match("rest")){
+                                    if(typesArr[k].includes("rest")){
                                         tempplaytimeadder += playtime;
                                         continue;
                                     }
