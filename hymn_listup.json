@@ -888,6 +888,168 @@
 			"track_path" : "/tracks/49_1.m4a"
 		},
 		{
+			"no" : 50,
+			"title" : "놀라워라 주님의 사랑",
+			"en_title" : "And Can It Be That I Should Gain?",
+			"bbverse" : "롬 5:8",
+			"bbtxt" : "우리가 아직 죄인이었을 때 그리스도께서 우리를 위하여 죽으심으로써 하나님께서는 우리를 향한 그의 사랑을 나타내셨느니라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Charles Wesley",
+				"desc" : "1738(1707-1788)"
+			},
+			"writer_mdy" : {
+				"name" : "Thomas Campbell",
+				"desc" : "1825(1777-1844)"
+			},
+			"meta_path" : "/metas/50_1.js",
+			"track_path" : "/tracks/50_1.m4a"
+		},
+		{
+			"no" : 51,
+			"title" : "만유의 주재",
+			"en_title" : "Fairest Lord Jesus",
+			"bbverse" : "시 45:2",
+			"bbtxt" : "왕은 사람의 자손들보다 더 아름다우셔서 은혜가 입술 속으로 부어졌으니 그러므로 하나님께서 왕을 영원히 복주셨나이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "<Munster Gesangbuch>",
+				"desc" : "1677"
+			},
+			"writer_mdy" : {
+				"name" : "<Schlesische Volkslieder>",
+				"desc" : "1842"
+			},
+			"meta_path" : "/metas/51_1.js",
+			"track_path" : "/tracks/51_1.m4a"
+		},
+		{
+			"no" : 52,
+			"title" : "전능하신 여호와여",
+			"en_title" : "Guide Me, O Thou Great Jehovah",
+			"bbverse" : "시 48:14",
+			"bbtxt" : "이 하나님께서 영원무궁토록 우리의 하나님이시니 죽을 때까지 그는 우리의 인도자가 되시리라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "William Williams",
+				"desc" : "1745(1717-1791)"
+			},
+			"writer_mdy" : {
+				"name" : "John Hughes",
+				"desc" : "1907(1873-1932)"
+			},
+			"meta_path" : "/metas/52_1.js",
+			"track_path" : "/tracks/52_1.m4a"
+		},
+		{
+			"no" : 53,
+			"title" : "내 주 영원한 왕이라",
+			"en_title" : "Lead On, O King Eternal",
+			"bbverse" : "사 63:14",
+			"bbtxt" : "골짜기로 내려가는 짐승같이 주의 영이 그를 쉬게 하셨으니 주께서는 이처럼 주의 백성을 인도하셔서 친히 영광스러운 이름이 되셨나이다.",
+			"theme" : "영적 전쟁",
+			"writer_sbt" : {
+				"name" : "Ernest W. Shurtleff",
+				"desc" : "1883(1862-1917)"
+			},
+			"writer_mdy" : {
+				"name" : "Henry T. Smart",
+				"desc" : "1835(1813-1879)"
+			},
+			"meta_path" : "/metas/53_1.js",
+			"track_path" : "/tracks/53_1.m4a"
+		},
+		{
+			"no" : 54,
+			"title" : "저주 받을 나의 혼",
+			"en_title" : "I Will Sing of My Redeemer",
+			"bbverse" : "사 25:9",
+			"bbtxt" : "그 날에는 \"보라, 이분이 우리의 하나님이시라. 우리가 그를 기다렸으니 그가 우리를 구원하시리로다. 이분이 주시라. 우리가 그를 기다렸으니 우리가 그의 구원을 기뻐하고 즐거워하리라.\"고 말하리라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Philip P. Bliss",
+				"desc" : "1876(1838-1876)"
+			},
+			"writer_mdy" : {
+				"name" : "James McGranahan",
+				"desc" : "1877(1840-1907)"
+			},
+			"meta_path" : "/metas/54_1.js",
+			"track_path" : "/tracks/54_1.m4a"
+		},
+		{
+			"no" : 55,
+			"title" : "만 입이 내게 있으면",
+			"en_title" : "O for a Thousand Tongues to Sing",
+			"bbverse" : "시 35:28",
+			"bbtxt" : "내 혀가 주의 의를 말하며 온종일 주를 찬양하리이다.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Charles Wesley",
+				"desc" : "1739(1707-1788)"
+			},
+			"writer_mdy" : {
+				"name" : "Arr. by Lowell Mason",
+				"desc" : "1839(1792-1872)"
+			},
+			"meta_path" : "/metas/55_1.js",
+			"track_path" : "/tracks/55_1.m4a"
+		},
+		{
+			"no" : 56,
+			"title" : "마귀들과 싸울지라",
+			"en_title" : "Battle Hymn of the Republic",
+			"bbverse" : "약 4:7",
+			"bbtxt" : "그러므로 하나님께 복종하라. 마귀를 대적하라. 그리하면 그가 너희로부터 도망하리라.",
+			"theme" : "영적 전쟁",
+			"writer_sbt" : {
+				"name" : "Julia W. Howe",
+				"desc" : "(1819-1910)"
+			},
+			"writer_mdy" : {
+				"name" : "John W. Steffe",
+				"desc" : "1856(1833-1911)"
+			},
+			"meta_path" : "/metas/56_1.js",
+			"track_path" : "/tracks/56_1.m4a"
+		},
+		{
+			"no" : 57,
+			"title" : "내 주는 살아 계시고",
+			"en_title" : "I Know That My Redeemer Liveth",
+			"bbverse" : "욥 19:25",
+			"bbtxt" : "이는 나의 구속주가 살아 계시고 훗날 그가 땅에 서실 것임을 내가 앎이라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Charles Wesley",
+				"desc" : "1742(1707-1788)"
+			},
+			"writer_mdy" : {
+				"name" : "George F. Handel",
+				"desc" : "1741(1685-1759)"
+			},
+			"meta_path" : "/metas/57_1.js",
+			"track_path" : "/tracks/57_1.m4a"
+		},
+		{
+			"no" : 58,
+			"title" : "시온성 올라가세",
+			"en_title" : "We Are Marching to Zion",
+			"bbverse" : "살전 4:16-18",
+			"bbtxt" : "주께서 호령과 천사장의 음성과 하나님의 나팔 소리와 함께 하늘로부터 친히 내려오시리니 그러면 그리스도 안에서 죽은 자들이 먼저 일어나고 그리고 나서 살아남아 있는 우리도 공중에서 주와 만나기 위하여 그들과 함께 구름 속으로 끌려 올라가리니, 그리하여 우리가 영원히 주와 함께 있으리라.",
+			"theme" : "소망",
+			"writer_sbt" : {
+				"name" : "Isaac Watts",
+				"desc" : "1707(1674-1748)"
+			},
+			"writer_mdy" : {
+				"name" : "Robert Lowery",
+				"desc" : "1867(1826-1899)"
+			},
+			"meta_path" : "/metas/58_1.js",
+			"track_path" : "/tracks/58_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",

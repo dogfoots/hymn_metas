@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <script type="text/javascript" src="./metas/50_1.js"></script>
+        <script type="text/javascript" src="./metas/58_1.js"></script>
         <!-- Load @magenta/music -->
         <script src="https://cdn.jsdelivr.net/npm/@magenta/music@1.3.1"></script>
         <script>
@@ -57,7 +57,7 @@
             }
             var g_player = new mm.SoundFontPlayer('https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus');
 
-            var g_play_tempo_multiplier = 1.8;//1.5;
+            var g_play_tempo_multiplier = 2.2;//1.5;
 
             function init(){
                 const seq = {notes:[]};
@@ -248,9 +248,12 @@
                             var mrk = gclef_sounds.mrk;
                             var sfn = gclef_sounds.sfn;
                             var slurs = gclef_sounds.slurs;
+                            var mute = gclef_sounds.mute;
+                            var mutes = gclef_sounds.mutes;
 
                             var marksArr = mrk.split("/");
                             var sfnsArr = sfn.split("/");
+                            var mutesArr = mutes != null ? mutes.split("/") : null;
 
                             if(marksArr.length > 0){
                                 var typesArr = [];
@@ -274,7 +277,12 @@
                                         }
                                     }
 
-                                    if(typesArr[k].includes("rest")){
+                                    if( (mute != null && mute.includes("ok")) || typesArr[k].includes("rest")){
+                                        tempplaytimeadder += playtime;
+                                        continue;
+                                    }
+
+                                    if(mutesArr != null && mutesArr.length > k && mutesArr[k].includes("ok")){
                                         tempplaytimeadder += playtime;
                                         continue;
                                     }
@@ -306,9 +314,12 @@
                             var mrk = fclef_sounds.mrk;
                             var sfn = fclef_sounds.sfn;
                             var slurs = fclef_sounds.slurs;
+                            var mute = fclef_sounds.mute;
+                            var mutes = fclef_sounds.mutes;
 
                             var marksArr = mrk.split("/");
                             var sfnsArr = sfn.split("/");
+                            var mutesArr = mutes != null ? mutes.split("/") : null;
 
                             if(marksArr.length > 0){
                                 var typesArr = [];
@@ -332,7 +343,12 @@
                                         }
                                     }
 
-                                    if(typesArr[k].includes("rest")){
+                                    if( (mute != null && mute.includes("ok")) || typesArr[k].includes("rest")){
+                                        tempplaytimeadder += playtime;
+                                        continue;
+                                    }
+
+                                    if(mutesArr != null && mutesArr.length > k && mutesArr[k].includes("ok")){
                                         tempplaytimeadder += playtime;
                                         continue;
                                     }
