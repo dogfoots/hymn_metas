@@ -1033,9 +1033,10 @@ var hymn_info={
 	},{
 		type : "quarter",
 		gclef_sounds : [
-			{ mrk : "2A", 
-			stem : "up",
-			sfn : "no"},
+			{ mrk : "2A/0Z", 
+			types : "quarter/no",
+			stem : "up/up",
+			sfn : "no/no"},
 			{ mrk : "1C", 
 			stem : "up",
 			sfn : "no"}
@@ -1049,10 +1050,10 @@ var hymn_info={
 			sfn : "no"}
 		],
 		captions : [
-			"힘",
-			"그리",
-			"생",
-			"맡"
+			"힘/",
+			"그/리",
+			"생/",
+			"맡/"
 		]
 	},{
 		type : "quarter",
