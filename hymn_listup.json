@@ -1158,6 +1158,42 @@
 			"track_path" : "/tracks/64_1.m4a"
 		},
 		{
+			"no" : 65,
+			"title" : "참 아름다워라",
+			"en_title" : "This Is My Father's World",
+			"bbverse" : "욥 38:7",
+			"bbtxt" : "언제 새벽별들이 함께 노래했으며 하나님의 아들들이 모두 기뻐서 소리쳤느냐?",
+			"theme" : "하나님의 영광과 능력",
+			"writer_sbt" : {
+				"name" : "Maltbie D. Babcock",
+				"desc" : "1901(1858-1901)"
+			},
+			"writer_mdy" : {
+				"name" : "Franklin L. Sheppard",
+				"desc" : "1915(1852-1930)"
+			},
+			"meta_path" : "/metas/65_1.js",
+			"track_path" : "/tracks/65_1.m4a"
+		},
+		{
+			"no" : 66,
+			"title" : "저 높고 푸른 하늘과",
+			"en_title" : "The Spacious Firmament on High",
+			"bbverse" : "시 19:1",
+			"bbtxt" : "하늘들이 하나님의 영광을 선포하고 창공이 그의 손으로 하신 일을 나타내는도다.",
+			"theme" : "하나님의 영광과 능력",
+			"writer_sbt" : {
+				"name" : "Joseph Addison",
+				"desc" : "1712(1672-1719)"
+			},
+			"writer_mdy" : {
+				"name" : "Franz J. Haydn",
+				"desc" : "1798"
+			},
+			"meta_path" : "/metas/66_1.js",
+			"track_path" : "/tracks/66_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
