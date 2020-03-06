@@ -1194,6 +1194,24 @@
 			"track_path" : "/tracks/66_1.m4a"
 		},
 		{
+			"no" : 67,
+			"title" : "오 만세 반석이신",
+			"en_title" : "O God, the Rock of Ages",
+			"bbverse" : "신 32:4",
+			"bbtxt" : "그분은 반석이시며 그분의 역사는 완벽하나니, 이는 그분의 모든 길이 공의이심이라. 그분은 진실하시고 악이 없으신 하나님이시며, 의로우시고 정직하시도다.",
+			"theme" : "하나님의 영광과 능력",
+			"writer_sbt" : {
+				"name" : "Edward H. Bickersteth, Jr.",
+				"desc" : "1860(1825-1906)"
+			},
+			"writer_mdy" : {
+				"name" : "Joseph P. Holbrook",
+				"desc" : "1865(1822-1888)"
+			},
+			"meta_path" : "/metas/67_1.js",
+			"track_path" : "/tracks/67_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
