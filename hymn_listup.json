@@ -1266,6 +1266,42 @@
 			"track_path" : "/tracks/70_1.m4a"
 		},
 		{
+			"no" : 71,
+			"title" : "그 귀한 이름 주 예수",
+			"en_title" : "O How I Love Jesus",
+			"bbverse" : "요일 4:19",
+			"bbtxt" : "우리가 그분을 사랑하는 것은 그분께서 먼저 우리를 사랑하셨음이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Frederick Whitfield",
+				"desc" : "1855(1829-1904)"
+			},
+			"writer_mdy" : {
+				"name" : "Traditional American Melody",
+				"desc" : ""
+			},
+			"meta_path" : "/metas/71_1.js",
+			"track_path" : "/tracks/71_1.m4a"
+		},
+		{
+			"no" : 72,
+			"title" : "만물보다 귀한 주님",
+			"en_title" : "Take the World, but Give Me Jesus",
+			"bbverse" : "막 8:36",
+			"bbtxt" : "사람이 온 세상을 얻고도 자신의 혼을 잃는다면 무슨 유익이 있겠느냐?",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1879(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "John R. Sweney",
+				"desc" : "1879(1837-1899)"
+			},
+			"meta_path" : "/metas/72_1.js",
+			"track_path" : "/tracks/72_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
