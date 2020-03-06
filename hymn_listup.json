@@ -1212,6 +1212,60 @@
 			"track_path" : "/tracks/67_1.m4a"
 		},
 		{
+			"no" : 68,
+			"title" : "내 영혼이 찬양하네",
+			"en_title" : "How Great Thou Art",
+			"bbverse" : "시 48:1",
+			"bbtxt" : "주는 위대하시니 우리 하나님의 도성과 그의 거룩한 산에서 크게 찬양받으시리로다.",
+			"theme" : "하나님의 영광과 능력",
+			"writer_sbt" : {
+				"name" : "Carl G. Boberg",
+				"desc" : "1885(1859-1940)"
+			},
+			"writer_mdy" : {
+				"name" : "Traditional Swedish Melody",
+				"desc" : ""
+			},
+			"meta_path" : "/metas/68_1.js",
+			"track_path" : "/tracks/68_1.m4a"
+		},
+		{
+			"no" : 69,
+			"title" : "주 예수님 크신 사랑",
+			"en_title" : "My Saviour's Love",
+			"bbverse" : "엡 2:4",
+			"bbtxt" : "그러나 자비가 풍성하신 하나님께서 우리를 사랑하신 그의 큰 사랑으로 인하여",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Charles H. Gabriel",
+				"desc" : "1905(1856-1932)"
+			},
+			"writer_mdy" : {
+				"name" : "Charles H. Gabriel",
+				"desc" : "1905(1856-1932)"
+			},
+			"meta_path" : "/metas/69_1.js",
+			"track_path" : "/tracks/69_1.m4a"
+		},
+		{
+			"no" : 70,
+			"title" : "어둔 세상 밝혀주는 말씀",
+			"en_title" : "Isn't the Love of Jesus, Something Wonderful!",
+			"bbverse" : "요 1:14",
+			"bbtxt" : "그 말씀이 육신이 되어 우리 가운데 거하시므로, (우리가 그의 영광을 보니, 아버지의 독생자의 영광으로) 은혜와 진리가 충만하더라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "John W. Peterson",
+				"desc" : "1961(1921-2006)"
+			},
+			"writer_mdy" : {
+				"name" : "John W. Peterson",
+				"desc" : "1961(1921-2006)"
+			},
+			"meta_path" : "/metas/70_1.js",
+			"track_path" : "/tracks/70_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
