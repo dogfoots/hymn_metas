@@ -1302,6 +1302,24 @@
 			"track_path" : "/tracks/72_1.m4a"
 		},
 		{
+			"no" : 73,
+			"title" : "오 내 구주 예수 참 귀중한 주",
+			"en_title" : "He Is so Precious to Me",
+			"bbverse" : "빌 2:10-12",
+			"bbtxt" : "하늘에 있는 것이나 땅 위에 있는 것이나 땅 아래 있는 것이나 모든 무릎을 예수의 이름에 꿇게 하시고 모든 혀가 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리게 하셨느니라. 그러므로 나의 사랑하는 자들아, 너희가 항상 복종했던 것처럼 내가 있을 때뿐만 아니라 내가 없는 지금도 더욱더 두려움과 떨림으로 너희 구원을 온전히 이루라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Charles H. Gabriel",
+				"desc" : "1902(1956-1932)"
+			},
+			"writer_mdy" : {
+				"name" : "Melchior Teschner",
+				"desc" : "1902(1856-1933)"
+			},
+			"meta_path" : "/metas/73_1.js",
+			"track_path" : "/tracks/73_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
