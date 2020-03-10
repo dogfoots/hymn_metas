@@ -1320,6 +1320,78 @@
 			"track_path" : "/tracks/73_1.m4a"
 		},
 		{
+			"no" : 74,
+			"title" : "내 영혼에 기쁨 주신 주님",
+			"en_title" : "All That Thril Is My Soul",
+			"bbverse" : "골 3:11",
+			"bbtxt" : "거기에는 헬라인이나 유대인이나, 할례자나 무할례자나, 야만인이나 스쿠디아인이나, 종이나 자유인이 없고 오직 그리스도만이 모든 것이요, 또 모든 것 안에 계시니라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Thoro Harris",
+				"desc" : "1931(1874-1955)"
+			},
+			"writer_mdy" : {
+				"name" : "Thoro Harris",
+				"desc" : "1931(1874-1955)"
+			},
+			"meta_path" : "/metas/74_1.js",
+			"track_path" : "/tracks/74_1.m4a"
+		},
+		{
+			"no" : 75,
+			"title" : "샤론의 장미",
+			"en_title" : "The Rose of Sharon",
+			"bbverse" : "솔 2:1",
+			"bbtxt" : "나는 샤론의 장미요, 골짜기의 백합화로다.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Peter S. Ruckman",
+				"desc" : "1996"
+			},
+			"writer_mdy" : {
+				"name" : "Franz P. Schubert",
+				"desc" : "1815(1797-1828)"
+			},
+			"meta_path" : "/metas/75_1.js",
+			"track_path" : "/tracks/75_1.m4a"
+		},
+		{
+			"no" : 76,
+			"title" : "오 깊고도 깊은",
+			"en_title" : "O the Deep, Deep Love of Jesus",
+			"bbverse" : "롬 8:38,39",
+			"bbtxt" : "내가 확신하노니 사망이나 생명이나, 천사들이나 정사들이나 권세들이나 현재의 일들이나 다가올 일들이나, 높음이나 깊음이나, 어떤 다른 피조물이라도 우리를 그리스도 예수 우리 주 안에 있는 하나님의 사랑에서 떼어 놓을 수 없으리라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Samuel T. Francis",
+				"desc" : "1875(1834-1925)"
+			},
+			"writer_mdy" : {
+				"name" : "Thomas j. Williams",
+				"desc" : "1890(1869-1944)"
+			},
+			"meta_path" : "/metas/76_1.js",
+			"track_path" : "/tracks/76_1.m4a"
+		},
+		{
+			"no" : 77,
+			"title" : "은혜의 바다로",
+			"en_title" : "The Mercy of God Is an Ocean Divine",
+			"bbverse" : "눅 5:4",
+			"bbtxt" : "그때 주께서는 말씀을 마치시고 시몬에게 말씀하시기를 \"깊은 데로 나가서 고기를 잡도록 그물들을 내리라.\"고 하시니",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Albert B. Simpson",
+				"desc" : "1891(1843-1919)"
+			},
+			"writer_mdy" : {
+				"name" : "Russel K. Carter",
+				"desc" : "1891(1849-1928)"
+			},
+			"meta_path" : "/metas/77_1.js",
+			"track_path" : "/tracks/77_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
