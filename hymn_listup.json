@@ -1392,6 +1392,42 @@
 			"track_path" : "/tracks/77_1.m4a"
 		},
 		{
+			"no" : 78,
+			"title" : "큰 죄에 빠진 나를",
+			"en_title" : "Sweeter as the Years Go By",
+			"bbverse" : "엡 3:18,19",
+			"bbtxt" : "모든 성도들과 함께 그 너비와 길이와 깊이와 높이가 얼마인가를 깨달을 수 있게 해주시며 또 지식을 초월한 그리스도의 사랑을 알아 너희가 하나님의 모든 충만으로 가득 차기를 구하노라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Leila N. Morris",
+				"desc" : "1912(1862-1929)"
+			},
+			"writer_mdy" : {
+				"name" : "Leila N. Morris",
+				"desc" : "1912(1862-1929)"
+			},
+			"meta_path" : "/metas/78_1.js",
+			"track_path" : "/tracks/78_1.m4a"
+		},
+		{
+			"no" : 79,
+			"title" : "구주를 생각만 해도",
+			"en_title" : "Jesus, the Very Thought of Thee",
+			"bbverse" : "벧전 1:8",
+			"bbtxt" : "너희가 그를 보지 못하였으나 사랑하며, 지금도 그를 보지 못하나 믿고 있으며, 또 말할 수 없이 영광으로 가득 찬 기쁨으로 즐거워하나니",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Bernard of Claviaux(1091-1153)",
+				"desc" : "Trans by Edward Caswal 1849"
+			},
+			"writer_mdy" : {
+				"name" : "John b. Dykes",
+				"desc" : "1866(1823-1876)"
+			},
+			"meta_path" : "/metas/79_1.js",
+			"track_path" : "/tracks/79_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
