@@ -1428,6 +1428,24 @@
 			"track_path" : "/tracks/79_1.m4a"
 		},
 		{
+			"no" : 80,
+			"title" : "예부터 전한 말씀",
+			"en_title" : "I Love to Tell the Story",
+			"bbverse" : "행 5:42",
+			"bbtxt" : "그들이 성전에서나 각 집안에서 날마다 예수 그리스도를 가르치고 전파하는 것을 쉬지 않더라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Arabella K. Hankey",
+				"desc" : "1866(1834-1911)"
+			},
+			"writer_mdy" : {
+				"name" : "William G. Fiseher",
+				"desc" : "1869(1835-1912)"
+			},
+			"meta_path" : "/metas/80_1.js",
+			"track_path" : "/tracks/80_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
