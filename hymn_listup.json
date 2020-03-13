@@ -1446,6 +1446,42 @@
 			"track_path" : "/tracks/80_1.m4a"
 		},
 		{
+			"no" : 81,
+			"title" : "주 하나님 크신 능력",
+			"en_title" : "God Moves in a Mysterious Way",
+			"bbverse" : "요 13:7",
+			"bbtxt" : "예수께서 대답하여 그에게 말씀하시기를 \"내가 하고 있는 일을 네가 지금은 몰라도 이후에는 알게 되리라.\"고 하시니",
+			"theme" : "하나님의 영광과 능력",
+			"writer_sbt" : {
+				"name" : "William Cowper",
+				"desc" : "1774(1731-1800)"
+			},
+			"writer_mdy" : {
+				"name" : "Thomas Ravenscroft",
+				"desc" : "1621(1592-1635)"
+			},
+			"meta_path" : "/metas/81_1.js",
+			"track_path" : "/tracks/81_1.m4a"
+		},
+		{
+			"no" : 82,
+			"title" : "찬송으로 보답할 수 없는",
+			"en_title" : "Glory to God, Hallelujah!",
+			"bbverse" : "시 100:4",
+			"bbtxt" : "감사함으로 그의 문들로 들어가고 찬양으로 그의 뜰들로 들어가라. 그분께 감사하고 그의 이름을 송축하라.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1885(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "William J. Kirkpatrick",
+				"desc" : "1885(1838-1921)"
+			},
+			"meta_path" : "/metas/82_1.js",
+			"track_path" : "/tracks/82_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
