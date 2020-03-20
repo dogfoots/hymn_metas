@@ -1482,6 +1482,24 @@
 			"track_path" : "/tracks/82_1.m4a"
 		},
 		{
+			"no" : 83,
+			"title" : "예수 사랑하심은",
+			"en_title" : "Jesus Loves Me",
+			"bbverse" : "엡 5:2",
+			"bbtxt" : "",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Anna B. Warner",
+				"desc" : "1859(1827-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "William B. Bradbury",
+				"desc" : "1862(1816-1868)"
+			},
+			"meta_path" : "/metas/83_1.js",
+			"track_path" : "/tracks/83_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
