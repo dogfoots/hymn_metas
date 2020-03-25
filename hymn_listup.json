@@ -1486,7 +1486,7 @@
 			"title" : "예수 사랑하심은",
 			"en_title" : "Jesus Loves Me",
 			"bbverse" : "엡 5:2",
-			"bbtxt" : "",
+			"bbtxt" : "그리스도께서 우리를 사랑하시어 우리를 위하여 자신을 하나님 앞에 향기로운 냄새를 내는 제물과 희생으로 드린 것같이 너희도 사랑 안에서 행하라.",
 			"theme" : "하나님의 사랑과 은혜",
 			"writer_sbt" : {
 				"name" : "Anna B. Warner",
@@ -1498,6 +1498,60 @@
 			},
 			"meta_path" : "/metas/83_1.js",
 			"track_path" : "/tracks/83_1.m4a"
+		},
+		{
+			"no" : 84,
+			"title" : "오래전 옛날 말씀",
+			"en_title" : "Tell Me the Old, Old Story",
+			"bbverse" : "요일 4:19",
+			"bbtxt" : "우리가 그분을 사랑하는 것은 그분께서 먼저 우리를 사랑하셨음이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Arabella K. Hankey",
+				"desc" : "1866(1834-1911)"
+			},
+			"writer_mdy" : {
+				"name" : "William H. Doane",
+				"desc" : "1870(1832-1915)"
+			},
+			"meta_path" : "/metas/84_1.js",
+			"track_path" : "/tracks/84_1.m4a"
+		},
+		{
+			"no" : 85,
+			"title" : "구세주를 찬양하세",
+			"en_title" : "Praise the Savior, Ye Who Know Him",
+			"bbverse" : "딤후 4:18",
+			"bbtxt" : "주께서는 나를 모든 악한 일에서 구해 내시고, 그의 하늘 나라에 이르기까지 나를 보호하시리니, 영광이 그분께 영원무궁토록 있기를 원하노라. 아멘.",
+			"theme" : "경배와 찬양",
+			"writer_sbt" : {
+				"name" : "Arabella K. Hankey",
+				"desc" : "1866(1834-1911)"
+			},
+			"writer_mdy" : {
+				"name" : "William H. Doane",
+				"desc" : "1870(1832-1915)"
+			},
+			"meta_path" : "/metas/84_1.js",
+			"track_path" : "/tracks/84_1.m4a"
+		},
+		{
+			"no" : 86,
+			"title" : "그 크신 하나님의 사랑",
+			"en_title" : "The Love of God",
+			"bbverse" : "렘 31:3",
+			"bbtxt" : "주께서 옛적에 내게 나타나시어 말씀하셨느니라. 내가 영원한 사랑으로 너를 사랑하였으므로 내가 자애로 다가섰노라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Frederick M. Lehman",
+				"desc" : "1917(1868-1953)"
+			},
+			"writer_mdy" : {
+				"name" : "Frederick M. Lehman",
+				"desc" : "1917(1868-1953)"
+			},
+			"meta_path" : "/metas/86_1.js",
+			"track_path" : "/tracks/86_1.m4a"
 		},
 		{
 			"no" : 134,
