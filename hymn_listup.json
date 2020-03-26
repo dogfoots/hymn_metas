@@ -1572,6 +1572,24 @@
 			"track_path" : "/tracks/87_1.m4a"
 		},
 		{
+			"no" : 88,
+			"title" : "놀라운 주의 은혜",
+			"en_title" : "Wonderful Grace of Jesus",
+			"bbverse" : "고후 8:9",
+			"bbtxt" : "",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Haldor Lillenas",
+				"desc" : "1818(1885-1959)"
+			},
+			"writer_mdy" : {
+				"name" : "Haldor Lillenas",
+				"desc" : "1818(1885-1959)"
+			},
+			"meta_path" : "/metas/88_1.js",
+			"track_path" : "/tracks/88_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
