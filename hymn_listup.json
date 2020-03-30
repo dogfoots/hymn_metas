@@ -1590,6 +1590,42 @@
 			"track_path" : "/tracks/88_1.m4a"
 		},
 		{
+			"no" : 89,
+			"title" : "주 안에 숨겨진 귀한 보배",
+			"en_title" : "Unsearchable Riches",
+			"bbverse" : "골 2:3",
+			"bbtxt" : "그의 안에는 모든 지혜와 지식의 보화가 감추어져 있느니라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1882(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "John R. Sweney",
+				"desc" : "1882(1837-1899)"
+			},
+			"meta_path" : "/metas/89_1.js",
+			"track_path" : "/tracks/89_1.m4a"
+		},
+		{
+			"no" : 90,
+			"title" : "그 사랑이 날 건졌네",
+			"en_title" : "Love Lifted Me",
+			"bbverse" : "요일 4:10",
+			"bbtxt" : "여기에 사랑이 있으니, 우리가 하나님을 사랑한 것이 아니요 그분이 우리를 사랑하시고 그의 아들을 우리 죄들을 위하여 화목제물로 보내신 것이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "James Rowe",
+				"desc" : "1912(1865-1933)"
+			},
+			"writer_mdy" : {
+				"name" : "Howard E. Smith",
+				"desc" : "1912(1863-1918)"
+			},
+			"meta_path" : "/metas/90_1.js",
+			"track_path" : "/tracks/90_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
