@@ -1626,6 +1626,78 @@
 			"track_path" : "/tracks/90_1.m4a"
 		},
 		{
+			"no" : 91,
+			"title" : "하나님 아버지 주신 책은",
+			"en_title" : "Jesus Love even Me",
+			"bbverse" : "요 3:16",
+			"bbtxt" : "하나님께서 세상을 이처럼 사랑하셔서 그의 독생자를 주셨으니 이는 그를 믿는 사람은 누구든지 멸망하지 않고 영생을 얻게하려 하심이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Philip P. Bliss",
+				"desc" : "1860(1838-1876)"
+			},
+			"writer_mdy" : {
+				"name" : "Philip P. Bliss",
+				"desc" : "1860(1838-1876)"
+			},
+			"meta_path" : "/metas/91_1.js",
+			"track_path" : "/tracks/91_1.m4a"
+		},
+		{
+			"no" : 92,
+			"title" : "주의 갈보리 사랑",
+			"en_title" : "Calvary Love",
+			"bbverse" : "요일 4:9,10",
+			"bbtxt" : "우리를 향한 하나님의 사랑이 이렇게 나타났으니, 곧 하나님께서 그의 독생자를 세상에 보내신 것은 우리로 그를 통하여 살게 하려 하심이라. 여기에 사랑이 있으니, 우리가 하나님을 사랑한 것이 아니요 그분이 우리를 사랑하시고 그의 아들을 우리 죄들을 위하여 화목제물로 보내신 것이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Avis B. Christiansen",
+				"desc" : "1956(1895-1985)"
+			},
+			"writer_mdy" : {
+				"name" : "John Hughes",
+				"desc" : "1926(1873-1932)"
+			},
+			"meta_path" : "/metas/92_1.js",
+			"track_path" : "/tracks/92_1.m4a"
+		},
+		{
+			"no" : 93,
+			"title" : "나 죄악 세상 어둠 속을",
+			"en_title" : "I Wandered in the Shades of Night",
+			"bbverse" : "요 1:4,5",
+			"bbtxt" : "그분 안에 생명이 있었으니 그 생명은 사람들의 빛이라. 그 빛이 어두움 속에 비치어도 어두움은 그것을 깨닫지 못하더라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Judson W. VanDeVenter",
+				"desc" : "1897(1855-1939)"
+			},
+			"writer_mdy" : {
+				"name" : "Winfield S. Weeden",
+				"desc" : "(1847-1908)"
+			},
+			"meta_path" : "/metas/93_1.js",
+			"track_path" : "/tracks/93_1.m4a"
+		},
+		{
+			"no" : 94,
+			"title" : "날 사랑하시사 십자가 달린 주",
+			"en_title" : "For All My Sin",
+			"bbverse" : "벧전 2:24",
+			"bbtxt" : "그가 친히 나무에 달린 자신의 몸으로 우리의 죄들을 담당하셨으니, 이는 우리가 죄들에는 죽고 의에는 살게 하려 하심이니라. 그가 채찍에 맞음으로 너희가 낫게 되었느니라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {
+				"name" : "Norman J. Clayton",
+				"desc" : "1970(1903-1992)"
+			},
+			"writer_mdy" : {
+				"name" : "Norman J. Clayton",
+				"desc" : "1970(1903-1992)"
+			},
+			"meta_path" : "/metas/94_1.js",
+			"track_path" : "/tracks/94_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
