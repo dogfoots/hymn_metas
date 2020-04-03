@@ -1716,6 +1716,42 @@
 			"track_path" : "/tracks/95_1.m4a"
 		},
 		{
+			"no" : 96,
+			"title" : "하나님은 독생자를",
+			"en_title" : "God Gave Us His Only Begotten Son",
+			"bbverse" : "요 3:16",
+			"bbtxt" : "하나님께서 세상을 이처럼 사랑하셔서 그의 독생자를 주셨으니, 이는 그를 믿는 사람은 누구든지 멸망하지 않고 영생을 얻게 하려 하심이라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {		
+				"name" : "Mitani, Tanekichi",
+				"desc" : "1903(1868-1945)"
+			},
+			"writer_mdy" : {
+				"name" : "Anonymous",
+				"desc" : ""
+			},
+			"meta_path" : "/metas/96_1.js",
+			"track_path" : "/tracks/96_1.m4a"
+		},
+		{
+			"no" : 97,
+			"title" : "주님의 놀라운 사랑",
+			"en_title" : "Love Found a Way",
+			"bbverse" : "롬 5:8",
+			"bbtxt" : "우리가 아직 죄인이었을 때 그리스도게서 우리를 위하여 죽으심으로써 하나님께서는 우리를 향한 그의 사랑을 나타내셨느니라.",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {		
+				"name" : "Avis B. Christiansen",
+				"desc" : "1915(1895-1985)"
+			},
+			"writer_mdy" : {
+				"name" : "Harry D. Loes",
+				"desc" : "1921(1892-1965)"
+			},
+			"meta_path" : "/metas/97_1.js",
+			"track_path" : "/tracks/97_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
