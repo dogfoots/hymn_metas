@@ -1770,6 +1770,24 @@
 			"track_path" : "/tracks/98_1.m4a"
 		},
 		{
+			"no" : 99,
+			"title" : "흑암에 깊이 잠긴",
+			"en_title" : "",
+			"bbverse" : "골 1:13",
+			"bbtxt" : "",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {		
+				"name" : "Jo, Dong Hwa",
+				"desc" : "2014"
+			},
+			"writer_mdy" : {
+				"name" : "Tune from <Home on the Range>",
+				"desc" : "Daniel E. Kelly, 1873"
+			},
+			"meta_path" : "/metas/99_1.js",
+			"track_path" : "/tracks/99_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
