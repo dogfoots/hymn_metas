@@ -1752,6 +1752,24 @@
 			"track_path" : "/tracks/97_1.m4a"
 		},
 		{
+			"no" : 98,
+			"title" : "주의 사랑 비췰 때에",
+			"en_title" : "When Love Shines in",
+			"bbverse" : "엡 2:4",
+			"bbtxt" : "그러나 자비가 풍성하신 하나님께서 우리를 사랑하신 그의 큰 사랑으로 인하여",
+			"theme" : "하나님의 사랑과 은혜",
+			"writer_sbt" : {		
+				"name" : "Carrie E. Breck",
+				"desc" : "1874(1855-1934)"
+			},
+			"writer_mdy" : {
+				"name" : "William J. Kirkpatrick",
+				"desc" : "1874(1838-1921)"
+			},
+			"meta_path" : "/metas/98_1.js",
+			"track_path" : "/tracks/98_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
