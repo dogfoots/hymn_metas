@@ -1824,6 +1824,78 @@
 			"track_path" : "/tracks/101_1.m4a"
 		},
 		{
+			"no" : 102,
+			"title" : "너 근심 걱정 말아라",
+			"en_title" : "God Will Take Care of You",
+			"bbverse" : "벧전 5:7",
+			"bbtxt" : "너희의 염려를 다 하나님께 맡기라. 이는 그분께서 너희를 돌보심이니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Civilla D. Martin",
+				"desc" : "1904(1866-1948)"
+			},
+			"writer_mdy" : {
+				"name" : "Walter S. Martin",
+				"desc" : "1904(1862-1935)"
+			},
+			"meta_path" : "/metas/102_1.js",
+			"track_path" : "/tracks/102_1.m4a"
+		},
+		{
+			"no" : 103,
+			"title" : "지금까지 지내 온 것",
+			"en_title" : "God's Great Grace It Is Has Brought Us",
+			"bbverse" : "롬 8:28",
+			"bbtxt" : "우리가 알거니와 하나님을 사랑하는 자들, 곧 그분의 목적에 따라 부르심을 받은 자들에게는 모든 일이 합력하여 선을 이루느니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Sasao, Tetsusanburo",
+				"desc" : "1897(1868-1914)"
+			},
+			"writer_mdy" : {
+				"name" : "Park, Jae Hoon",
+				"desc" : "1967"
+			},
+			"meta_path" : "/metas/103_1.js",
+			"track_path" : "/tracks/103_1.m4a"
+		},
+		{
+			"no" : 104,
+			"title" : "날 가르치소서",
+			"en_title" : "Teach Me Thy Way, O Lord",
+			"bbverse" : "요 10:4",
+			"bbtxt" : "그가 자기 양들을 이끌어 낸 후 양떼 앞에서 걸어가면 양들이 그를 따라가나니 이는 양들이 그의 음성을 알기 때문이라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Benjamin M. Ramsey",
+				"desc" : "1919(1849-1923)"
+			},
+			"writer_mdy" : {
+				"name" : "Benjamin M. Ramsey",
+				"desc" : "1919(1849-1923)"
+			},
+			"meta_path" : "/metas/104_1.js",
+			"track_path" : "/tracks/104_1.m4a"
+		},
+		{
+			"no" : 105,
+			"title" : "주는 나를 기르시는 목자",
+			"en_title" : "The Lord Is My Shepherd",
+			"bbverse" : "시 23:1-6",
+			"bbtxt" : "주는 나의 목자시니, 내가 부족한 것이 없으리로다. 그가 나를 푸른 초장에 눕게 하시며 잔잔한 물가로 나를 인도하시는도다. 그가 내 혼을 소생시키시고 그의 이름을 위하여 의의 길들로 나를 인도하시는도다. 그가 내 혼을 소생시키시고 그의 이름을 위하여 의의 길들로 나를 인도하시는도다...",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Choi, Bong Chun",
+				"desc" : "1956(1917-1966)"
+			},
+			"writer_mdy" : {
+				"name" : "Chang, Soo Chul",
+				"desc" : "1956(1917-1966)"
+			},
+			"meta_path" : "/metas/105_1.js",
+			"track_path" : "/tracks/105_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
