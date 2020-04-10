@@ -1896,6 +1896,78 @@
 			"track_path" : "/tracks/105_1.m4a"
 		},
 		{
+			"no" : 106,
+			"title" : "나의 갈 길 다가도록",
+			"en_title" : "All the Way My Saviour Leads Me",
+			"bbverse" : "시 32:8",
+			"bbtxt" : "네가 가야 할 길을 내가 네게 지시하고 가르치리니 내가 너를 내 눈으로 인도하리라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Fanny J. Crosby",
+				"desc" : "1875(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "Robert Lowry",
+				"desc" : "1875(1826-1899)"
+			},
+			"meta_path" : "/metas/106_1.js",
+			"track_path" : "/tracks/106_1.m4a"
+		},
+		{
+			"no" : 107,
+			"title" : "예수 인도하셨네",
+			"en_title" : "Jesus Led All the Way",
+			"bbverse" : "딤후 4:18",
+			"bbtxt" : "주께서는 나를 모든 악한 일에서 구해 내시고, 그의 하늘 나라에 이르기까지 나를 보호하시리니, 영광이 그분께 영원무궁토록 있기를 원하노라. 아멘.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "John W. Peterson",
+				"desc" : "1980(1921-2006)"
+			},
+			"writer_mdy" : {
+				"name" : "John W. Peterson",
+				"desc" : "1980(1921-2006)"
+			},
+			"meta_path" : "/metas/107_1.js",
+			"track_path" : "/tracks/107_1.m4a"
+		},
+		{
+			"no" : 108,
+			"title" : "공중 나는 새를 보라",
+			"en_title" : "Behold the Fowls of the Air",
+			"bbverse" : "마 6:26",
+			"bbtxt" : "공중의 새들을 보라. 새들은 씨앗을 뿌리지도 않고, 거두지도 않으며, 곡물 창고에 모아들이지 않아도 하늘에 계신 너희 아버지께서 기르시나니, 너희들이 새들보다 더 귀하지 아니하냐?",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {		
+				"name" : "Frederick S. Miller",
+				"desc" : "1905(1866-1937)"
+			},
+			"writer_mdy" : {
+				"name" : "Henry B. Richards",
+				"desc" : "1862(1817-1889)"
+			},
+			"meta_path" : "/metas/108_1.js",
+			"track_path" : "/tracks/108_1.m4a"
+		},
+		{
+			"no" : 109,
+			"title" : "주여 인도하소서",
+			"en_title" : "Saviour, Lead Me, Lest I Stray",
+			"bbverse" : "시 16:9",
+			"bbtxt" : "그러므로 내 마음이 기쁘고 내 영광이 즐거워하며 내 육체도 소망 가운데 안식하리니",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Frank M. Davis",
+				"desc" : "1880(1839-1896)"
+			},
+			"writer_mdy" : {
+				"name" : "Frank M. Davis",
+				"desc" : "1880(1839-1896)"
+			},
+			"meta_path" : "/metas/109_1.js",
+			"track_path" : "/tracks/109_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
