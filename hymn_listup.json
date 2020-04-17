@@ -1986,6 +1986,42 @@
 			"track_path" : "/tracks/110_1.m4a"
 		},
 		{
+			"no" : 111,
+			"title" : "하나님 아버지가 돌보신다",
+			"en_title" : "My Father Watches over Me",
+			"bbverse" : "벧전 5:7",
+			"bbtxt" : "너희의 염려를 다 하나님께 맡기라. 이는 그분께서 너희를 돌보심이니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "William C. Martin",
+				"desc" : "1910(1862-1935)"
+			},
+			"writer_mdy" : {
+				"name" : "Charles H. Gabriel",
+				"desc" : "1910(1856-1932)"
+			},
+			"meta_path" : "/metas/111_1.js",
+			"track_path" : "/tracks/111_1.m4a"
+		},
+		{
+			"no" : 112,
+			"title" : "내가 너를 지키리라",
+			"en_title" : "I Will Pilot Thee",
+			"bbverse" : "요 10:1-13",
+			"bbtxt" : "\"진실로 진실로 내가 너희에게 말하노니, 양우리에 문으로 들어가지 아니하고 다른 길로 넘어 들어가는 자는 도둑이요 강도라. 그러나 문으로 들어가는 이는 양의 목자라. 그에게 문지기가 문을 열면 양들은 그의 음성을 듣나니, 그러면 그는 자기 자신의 양들의 이름을 불러서 이끌어 내느니라...",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Emily D. Wilson",
+				"desc" : "1927(1865-1942)"
+			},
+			"writer_mdy" : {
+				"name" : "Emily D. Wilson",
+				"desc" : "1927(1865-1942)"
+			},
+			"meta_path" : "/metas/112_1.js",
+			"track_path" : "/tracks/112_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
