@@ -1968,6 +1968,24 @@
 			"track_path" : "/tracks/109_1.m4a"
 		},
 		{
+			"no" : 110,
+			"title" : "오 주는 우리의 반석",
+			"en_title" : "The Lord's Our Rock",
+			"bbverse" : "시 18:2",
+			"bbtxt" : "주는 나의 반석이시요 나의 요새시며 나의 구원자시라, 나의 하나님이시며 내가 신뢰할 나의 힘이시요, 나의 방패시며 나의 구원의 뿔이시며 나의 높은 망대시니이다.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Vernon J. Charlesworth",
+				"desc" : "1880(1839-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "Ira D. Sankey",
+				"desc" : "1885(1840-1908)"
+			},
+			"meta_path" : "/metas/110_1.js",
+			"track_path" : "/tracks/110_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
