@@ -2022,6 +2022,150 @@
 			"track_path" : "/tracks/112_1.m4a"
 		},
 		{
+			"no" : 113,
+			"title" : "저 푸른 들 시원한 그늘 밑에",
+			"en_title" : "God Leads Us Along",
+			"bbverse" : "사 43:2",
+			"bbtxt" : "네가 물들을 통과할 때도 내가 너와 함께 있을 것이며, 네가 강들을 통과할 때에도 물이 너를 덮치지 못할 것이라. 네가 불 속을 통과해서 걸을 때에도 타지 않을 것이며, 불꽃이 네 위에서 타지 못할 것이라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "George A. Young",
+				"desc" : "1903(19th Century)"
+			},
+			"writer_mdy" : {
+				"name" : "George A. Young",
+				"desc" : "1903(19th Century)"
+			},
+			"meta_path" : "/metas/113_1.js",
+			"track_path" : "/tracks/113_1.m4a"
+		},
+		{
+			"no" : 114,
+			"title" : "한걸음씩 주님 뒤를 따르네",
+			"en_title" : "Each Step I Take",
+			"bbverse" : "요 14:6",
+			"bbtxt" : "예수께서 그에게 말씀하시기를 \"나는 길이요 진리요 생명이라. 나로 말미암지 않고는 아버지께로 올 사람이 아무도 없느니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "George A. Young",
+				"desc" : "1903(19th Century)"
+			},
+			"writer_mdy" : {
+				"name" : "George A. Young",
+				"desc" : "1903(19th Century)"
+			},
+			"meta_path" : "/metas/114_1.js",
+			"track_path" : "/tracks/114_1.m4a"
+		},
+		{
+			"no" : 115,
+			"title" : "주님을 의지하면서",
+			"en_title" : "I Remember Calvary",
+			"bbverse" : "엡 2:4-8",
+			"bbtxt" : "죄들 가운데서 죽었던 우리를 그리스도와 함께 살리셨으니(너희가 은혜로 구원을 받은 것이니라.) 또 함께 일으키사 그리스도 예수 안에서 천상에 함께 앉히셨으니 이는 그리스도 예수를 통하여 하나님께서 우리를 향한 그의 인자하심 가운데 그의 은혜의 지극히 풍요함을 오는 시대들에 보여 주시려 함이니라...",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "William C. Martin",
+				"desc" : "1900(1864-1914)"
+			},
+			"writer_mdy" : {
+				"name" : "James M. Black",
+				"desc" : "1900(1856-1938)"
+			},
+			"meta_path" : "/metas/115_1.js",
+			"track_path" : "/tracks/115_1.m4a"
+		},
+		{
+			"no" : 116,
+			"title" : "내 갈 길 멀고 밤은 깊은데",
+			"en_title" : "Lead, Kindly Light",
+			"bbverse" : "시 16:11",
+			"bbtxt" : "주께서 내게 생명의 길을 보여 주시리니 주의 면전에는 충만한 기쁨이 있고 주의 오른편에는 즐거움이 영원무궁토록 있나이다.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "John H. Newman",
+				"desc" : "1833(1801-1890)"
+			},
+			"writer_mdy" : {
+				"name" : "John B. Dykes",
+				"desc" : "1865(1823-1876)"
+			},
+			"meta_path" : "/metas/116_1.js",
+			"track_path" : "/tracks/116_1.m4a"
+		},
+		{
+			"no" : 117,
+			"title" : "그 손 못 자국 만져라",
+			"en_title" : "Have You Failed in Your Plan",
+			"bbverse" : "요 20:27",
+			"bbtxt" : "도마에게 말씀하시기를 \"네 손가락을 이리 내밀어 나의 손을 보고 너의 손을 내밀어 내 옆구리에 넣어 보라. 그리하여 믿음없는 자가 되지 말고 믿는 자가 되라.\"고 하시니",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Baylus B. Mckinney",
+				"desc" : "1924(1886-1952)"
+			},
+			"writer_mdy" : {
+				"name" : "Baylus B. Mckinney",
+				"desc" : "1924(1886-1952)"
+			},
+			"meta_path" : "/metas/117_1.js",
+			"track_path" : "/tracks/117_1.m4a"
+		},
+		{
+			"no" : 118,
+			"title" : "큰 풍파 내 뜻 복종하리라",
+			"en_title" : "Master, the Tempest Is Raging",
+			"bbverse" : "마 8:24-27",
+			"bbtxt" : "그런데, 보라, 바다에 큰 폭풍우가 일어나 그 배가 파도에 덮였으나 주께서는 주무시고 계신지라, 제자들이 그에게 다가와서 깨우며, 말씀드리기를 \"주여, 우리를 구하여 주옵소서. 우리가 죽게 되었나이다.\"라고 하니 주께서 그들에게 말씀하시기를 \"오 너희 믿음이 적은 자들아, 어찌하여 두려워하느냐?\"하시고 일어나서 바람과 바다를 꾸짖으시니 아주 조용해지더라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Mary A. Baker",
+				"desc" : "1874(1831-1921)"
+			},
+			"writer_mdy" : {
+				"name" : "Horatio R. Palmer",
+				"desc" : "1874(1834-1907)"
+			},
+			"meta_path" : "/metas/118_1.js",
+			"track_path" : "/tracks/118_1.m4a"
+		},
+		{
+			"no" : 119,
+			"title" : "나의 닻은 든든해",
+			"en_title" : "My Anchor Holds",
+			"bbverse" : "히 6:19",
+			"bbtxt" : "우리가 이 소망을 혼의 닻같이 가졌으니 확실하고 견고한 소망이라. 이로써 우리 혼이 휘장 안에 있는 곳으로 들어가나니",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "William C. Martin",
+				"desc" : "1902(1864-1914)"
+			},
+			"writer_mdy" : {
+				"name" : "Daniel B. Towner",
+				"desc" : "1902(1850-1919)"
+			},
+			"meta_path" : "/metas/119_1.js",
+			"track_path" : "/tracks/119_1.m4a"
+		},
+		{
+			"no" : 120,
+			"title" : "교회의 머릴세",
+			"en_title" : "The Lord Is Risen Indeed",
+			"bbverse" : "고전 15:55-57",
+			"bbtxt" : "",
+			"theme" : "부활",
+			"writer_sbt" : {
+				"name" : "Thomas Kelly",
+				"desc" : "1802(1769-1855)"
+			},
+			"writer_mdy" : {
+				"name" : "George F. Root",
+				"desc" : "1802(1769-1855)"
+			},
+			"meta_path" : "/metas/120_1.js",
+			"track_path" : "/tracks/120_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
