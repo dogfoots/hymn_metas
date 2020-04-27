@@ -2152,7 +2152,7 @@
 			"title" : "교회의 머릴세",
 			"en_title" : "The Lord Is Risen Indeed",
 			"bbverse" : "고전 15:55-57",
-			"bbtxt" : "",
+			"bbtxt" : "오 사망아, 너의 쏘는 것이 어디 있느냐? 오 음부야, 너의 승리가 어디 있느냐? 사망의 쏘는 것은 죄요, 죄의 능력은 율법이라. 그러나 우리 주 예수 그리스도를 통하여 우리에게 승리를 주시는 하나님께 감사하노니,",
 			"theme" : "부활",
 			"writer_sbt" : {
 				"name" : "Thomas Kelly",
@@ -2164,6 +2164,78 @@
 			},
 			"meta_path" : "/metas/120_1.js",
 			"track_path" : "/tracks/120_1.m4a"
+		},
+		{
+			"no" : 121,
+			"title" : "오 놀라운 구세주 예수 내 주",
+			"en_title" : "A Wonderful Saviour Is Jesus My Lord",
+			"bbverse" : "출 33:22",
+			"bbtxt" : "내 영광이 지날 동안 내가 너를 그 바위 틈에 넣어서 내가 지날 동안 내 손으로 너를 덮으리니,",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Fanny J. Crosby",
+				"desc" : "1890(1820-1915)"
+			},
+			"writer_mdy" : {
+				"name" : "William J. Kirkpatrick",
+				"desc" : "1890(1838-1921)"
+			},
+			"meta_path" : "/metas/121_1.js",
+			"track_path" : "/tracks/121_1.m4a"
+		},
+		{
+			"no" : 122,
+			"title" : "내 주가 인도하시니",
+			"en_title" : "He Leadeth Me",
+			"bbverse" : "시 23:3",
+			"bbtxt" : "그가 내 혼을 소생시키시고 그의 이름을 위하여 의의 길들로 나를 인도하시는도다.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Joseph H. Gilmore",
+				"desc" : "1862(1834-1918)"
+			},
+			"writer_mdy" : {
+				"name" : "William B. Bradbury",
+				"desc" : "1864(1816-1868)"
+			},
+			"meta_path" : "/metas/122_1.js",
+			"track_path" : "/tracks/122_1.m4a"
+		},
+		{
+			"no" : 123,
+			"title" : "주 하나님 독생자",
+			"en_title" : "Because He Lives",
+			"bbverse" : "욥 19:25",
+			"bbtxt" : "이는 나의 구속주가 살아 계시고 훗날 그가 땅에 서실 것임을 내가 앎이라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Gloria Gaither",
+				"desc" : "1971"
+			},
+			"writer_mdy" : {
+				"name" : "William J. Gaither",
+				"desc" : "1971"
+			},
+			"meta_path" : "/metas/123_1.js",
+			"track_path" : "/tracks/123_1.m4a"
+		},
+		{
+			"no" : 124,
+			"title" : "다만 한걸음씩",
+			"en_title" : "Just One Step at a Time",
+			"bbverse" : "마 16:24",
+			"bbtxt" : "그때 예수께서 제자들에게 말씀하시기를 \"누구든지 나를 따라오려거든 자기를 부인하고 자기 십자가를 지고 나를 따르라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "John W. Peterson",
+				"desc" : "1960(1921-2006)"
+			},
+			"writer_mdy" : {
+				"name" : "John W. Peterson",
+				"desc" : "1960(1921-2006)"
+			},
+			"meta_path" : "/metas/124_1.js",
+			"track_path" : "/tracks/124_1.m4a"
 		},
 		{
 			"no" : 134,
