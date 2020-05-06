@@ -2238,6 +2238,42 @@
 			"track_path" : "/tracks/124_1.m4a"
 		},
 		{
+			"no" : 125,
+			"title" : "하나님 주신 약속은",
+			"en_title" : "God Hath Not Promised",
+			"bbverse" : "벧전 5:7",
+			"bbtxt" : "너희의 염려를 다 하나님께 맡기라. 이는 그분게서 너희를 돌보심이니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Annie J. Flint",
+				"desc" : "1919(1866-1932)"
+			},
+			"writer_mdy" : {
+				"name" : "Alfred B. Smith",
+				"desc" : "(1916-2001)"
+			},
+			"meta_path" : "/metas/125_1.js",
+			"track_path" : "/tracks/125_1.m4a"
+		},
+		{
+			"no" : 126,
+			"title" : "이 세상의 친구들",
+			"en_title" : "Earthly Friends May Prove Untrue",
+			"bbverse" : "요 14:18",
+			"bbtxt" : "내가 너희를 고아로 남겨 두지 아니하고 너희에게 오리라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Arthur A. Luther",
+				"desc" : "1927(1891-1960)"
+			},
+			"writer_mdy" : {
+				"name" : "Arthur A. Luther",
+				"desc" : "1927(1891-1960)"
+			},
+			"meta_path" : "/metas/126_1.js",
+			"track_path" : "/tracks/126_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
