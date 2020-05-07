@@ -2274,6 +2274,96 @@
 			"track_path" : "/tracks/126_1.m4a"
 		},
 		{
+			"no" : 127,
+			"title" : "주께서 내 길 인도하시네",
+			"en_title" : "I Know the Lord Has Made a Way",
+			"bbverse" : "막 1:16-20",
+			"bbtxt" : "...\"너희는 나를 따라오라. 내가 너희로 사람들을 낚는 어부가 되게 하리라.\"...",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "John W. Peterson",
+				"desc" : "1953(1921-2006)"
+			},
+			"writer_mdy" : {
+				"name" : "John W. Peterson",
+				"desc" : "1953(1921-2006)"
+			},
+			"meta_path" : "/metas/127_1.js",
+			"track_path" : "/tracks/127_1.m4a"
+		},
+		{
+			"no" : 128,
+			"title" : "내 주 아버지께 모두 맡기네",
+			"en_title" : "Leave It There",
+			"bbverse" : "마 11:28-30",
+			"bbtxt" : "수고하고 무거운 짐진 자들아, 다 내게로 오라. 그러면 내가 너희에게 쉼을 주리라. 나는 마음이 온유하고 겸손하니, 내 멍에를 메고 나에게서 배우라. 그리하면 너희가 너희 혼에 쉼을 얻으리라. 이는 내 멍에는 쉽고 내 짐은 가볍기 때문이라.\"고 하시더라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Chaeles A. Tindley",
+				"desc" : "1916(1851-1933)"
+			},
+			"writer_mdy" : {
+				"name" : "Chaeles A. Tindley",
+				"desc" : "1916(1851-1933)"
+			},
+			"meta_path" : "/metas/128_1.js",
+			"track_path" : "/tracks/128_1.m4a"
+		},
+		{
+			"no" : 129,
+			"title" : "주는 만왕의 왕",
+			"en_title" : "I Belong to the King",
+			"bbverse" : "롬 8:16",
+			"bbtxt" : "성령이 친히 우리의 영과 함께 우리가 하나님의 자녀임을 증거하시거니와",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Ida L. Reed",
+				"desc" : "1896(1865-1951)"
+			},
+			"writer_mdy" : {
+				"name" : "Joseph L. Hall",
+				"desc" : "1896(1866-1930)"
+			},
+			"meta_path" : "/metas/129_1.js",
+			"track_path" : "/tracks/129_1.m4a"
+		},
+		{
+			"no" : 130,
+			"title" : "해 저물어 날 이미 어두니",
+			"en_title" : "Abide with Me",
+			"bbverse" : "눅 24:29",
+			"bbtxt" : "그러자 그들이 그에게 강권하여 말하기를 \"저녁이 되고 날이 저물었으니 우리와 함께 머무소서.\"라고 하니, 그들과 함께 묵으러 들어가시니라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Henry F. Lyte",
+				"desc" : "1847(1793-1847)"
+			},
+			"writer_mdy" : {
+				"name" : "William H. Monk",
+				"desc" : "1861(1823-1889)"
+			},
+			"meta_path" : "/metas/130_1.js",
+			"track_path" : "/tracks/130_1.m4a"
+		},
+		{
+			"no" : 131,
+			"title" : "내일 일 나 알 수 없네",
+			"en_title" : "I Know Who Holds Tomorrow",
+			"bbverse" : "잠 27:1",
+			"bbtxt" : "너는 내일을 자랑하지 말라. 하루 동안에 무슨 일이 일어날는지 네가 알 수 없음이라.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Ira F. Stanphill",
+				"desc" : "1950(1920-1993)"
+			},
+			"writer_mdy" : {
+				"name" : "Ira F. Stanphill",
+				"desc" : "1950(1920-1993)"
+			},
+			"meta_path" : "/metas/131_1.js",
+			"track_path" : "/tracks/131_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
 			"en_title" : "no title",
