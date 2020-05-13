@@ -1,7 +1,7 @@
 var hymn_info={
 	no : 134,
 	title : "풍랑이 일고 바람이 불 때",
-	en_title : "rose of sharone?",
+	en_title : "We Have an Anchor",
 	bbverse : "히 6:19",
 	theme : "하나님의 인도와 돌보심",
 	writer_sbt : {

@@ -2364,9 +2364,45 @@
 			"track_path" : "/tracks/131_1.m4a"
 		},
 		{
+			"no" : 132,
+			"title" : "주의 선하심과 자비하심",
+			"en_title" : "Surely Goodness and Mercy",
+			"bbverse" : "시 23:1-6",
+			"bbtxt" : "주는 나의 목자시니, 내가 부족한 것이 없으리로다. 그가 나를 푸른 초장에 눕게 하시며 잔잔한 물가로 나를 인도하시는도다. 그가 내 혼을 소생시키시고 그의 이름을 위하여 의의 길들로 나를 인도하시는도다. 정녕, 내가 죽음의 그림자의 골짜기를 지날지라도 악을 두려워하지 않으리니 이는 주께서 나와 함께 계심이요, 주의 막대기와 주의 지팡이가 나를 위로하심이라...",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "John W. Peterson",
+				"desc" : "1958(1921-2006)"
+			},
+			"writer_mdy" : {
+				"name" : "Alfred B. Smith",
+				"desc" : "1958(1916-2001)"
+			},
+			"meta_path" : "/metas/132_1.js",
+			"track_path" : "/tracks/132_1.m4a"
+		},
+		{
+			"no" : 133,
+			"title" : "주신 복을 세어 보아라",
+			"en_title" : "Count Your Blessings",
+			"bbverse" : "시 40:5",
+			"bbtxt" : "오 주 나의 하나님이여, 주께서 행하신 주의 경이로운 일들이 많으며 우리를 향하신 주의 생각도 많나이다. 내가 그것들을 선언하고 말하려 하나 주께 정연하게 헤아려 드릴 수도 없고 많아서 셀 수도 없나이다.",
+			"theme" : "하나님의 인도와 돌보심",
+			"writer_sbt" : {
+				"name" : "Johnson Oatman, Jr.",
+				"desc" : "1897(1856-1922)"
+			},
+			"writer_mdy" : {
+				"name" : "Edwin O. Excell",
+				"desc" : "1897(1851-1921)"
+			},
+			"meta_path" : "/metas/133_1.js",
+			"track_path" : "/tracks/133_1.m4a"
+		},
+		{
 			"no" : 134,
 			"title" : "풍랑이 일고 바람이 불 때",
-			"en_title" : "no title",
+			"en_title" : "We Have an Anchor",
 			"bbverse" : "히 6:19",
 			"bbtxt" : "우리가 이 소망을 혼의 닻같이 가졌으니 확실하고 견고한 소망이라. 이로써 우리 혼이 휘장 안에 있는 곳으로 들어가나니",
 			"theme" : "하나님의 인도하심과 돌보심",
@@ -2380,6 +2416,78 @@
 			},
 			"meta_path" : "/metas/134_1.js",
 			"track_path" : "/tracks/134_1.m4a"
+		},
+		{
+			"no" : 135,
+			"title" : "내가 갈 아침이 곧 오니",
+			"en_title" : "I'll Stand by until the Morning",
+			"bbverse" : "행 27:25",
+			"bbtxt" : "그러므로 여러분이여, 기운을 내라. 나는 하나님을 믿나니 나에게 말씀하신 그대로 되리라.",
+			"theme" : "하나님의 인도하심과 돌보심",
+			"writer_sbt" : {
+				"name" : "Daniel W. Whittle",
+				"desc" : "(1840-1901)"
+			},
+			"writer_mdy" : {
+				"name" : "James McGraham",
+				"desc" : "1906(1840-1907)"
+			},
+			"meta_path" : "/metas/135_1.js",
+			"track_path" : "/tracks/135_1.m4a"
+		},
+		{
+			"no" : 136,
+			"title" : "폭풍이 불어올 때와",
+			"en_title" : "From Every Stormy Wind That Blows",
+			"bbverse" : "출 25:22",
+			"bbtxt" : "거기에서 내가 너와 만나고 또 내가 자비석 위, 증거궤 위에 있는 두 그룹 사이로부터 내가 이스라엘 자손에게 계명들로 줄 모든 것들에 관해 너와 교제하리라.",
+			"theme" : "하나님의 인도하심과 돌보심",
+			"writer_sbt" : {
+				"name" : "Hugh Stowell",
+				"desc" : "1828(1799-1865)"
+			},
+			"writer_mdy" : {
+				"name" : "Thomas Hastings",
+				"desc" : "1842(1784-1872)"
+			},
+			"meta_path" : "/metas/136_1.js",
+			"track_path" : "/tracks/136_1.m4a"
+		},
+		{
+			"no" : 137,
+			"title" : "주 말씀 동산 안에는",
+			"en_title" : "Thy Word Is Like a Garden, Lord",
+			"bbverse" : "시 19:7-11",
+			"bbtxt" : "주의 율법은 완전하여 혼을 회심시키며, 주의 증거는 확실하여 우매한 자를 현명하게 만들고 주의 규례는 정당하여 마음을 기쁘게 하며, 주의 계명은 순수하여 눈을 밝게 하도다. 주를 두려워함은 순결하여 영원히 지속되고 주의 명령들은 모두 참되고 의로우니, 그것들은 금보다, 정녕 많은 정금보다 더 바랄 만하며, 꿀과 벌집보다 더 달도다. 뿐만 아니라 그것들로 인하여 주의 종이 경고를 받으며, 그것들을 준수함으로 큰 상이 있나이다.",
+			"theme" : "성경",
+			"writer_sbt" : {
+				"name" : "Edwin Hodder",
+				"desc" : "1863(1837-1904)"
+			},
+			"writer_mdy" : {
+				"name" : "Gottfried W. Fink",
+				"desc" : "1842(1783-1846)"
+			},
+			"meta_path" : "/metas/137_1.js",
+			"track_path" : "/tracks/137_1.m4a"
+		},
+		{
+			"no" : 138,
+			"title" : "온 세상 방방곡곡에",
+			"en_title" : "An Open Bible for the World",
+			"bbverse" : "요 1:8-12",
+			"bbtxt" : "그 사람은 그 빛이 아니었고 그 빛에 관하여 증거하라고 보내심을 받았더라. 세상으로 들어오는 모든 사람에게 비치는 참 빛이 있었으니 그가 세상에 계셨고 세상이 그에 의하여 지은 바 되었으나 세상은 그를 알지 못하더라. 그가 자기 백성에게 오셨으나 자기 백성이 그를 영접하지 아니하더라. 그러나 누구든지 그를 영접한 사람들에게는 하나님의 아들들이 되는 권세를 주셨으니, 즉 그의 이름을 믿는 사람들에게니라.",
+			"theme" : "성경",
+			"writer_sbt" : {
+				"name" : "Henry M. King",
+				"desc" : "1881(1838-1919)"
+			},
+			"writer_mdy" : {
+				"name" : "William J. Kirkpatrick",
+				"desc" : "1892(1838-1921)"
+			},
+			"meta_path" : "/metas/138_1.js",
+			"track_path" : "/tracks/138_1.m4a"
 		},
 		{
 			"no" : 150,
